@@ -68,6 +68,10 @@ How to transcode leather?
 1. [https://www.youtube.com/watch?v=oogQU8Ey7oI](https://www.youtube.com/watch?v=oogQU8Ey7oI)
 2. [https://www.youtube.com/watch?v=ISWVizLuz4Y](https://www.youtube.com/watch?v=ISWVizLuz4Y)
 
+Using sound and 3D modelling to create a digital fac-similé, (maybe in Unity) that can be opened and display transcoded content from the archive edited into a narrative that follows the research question.
+
+diversity of transcription, from image to sound, from picture to written description or drawing, etc.
+
 How to explain the context and the signification of it and its value ?
 Value as a document carrier.
 Reproduction fac-similé, + keep its function.
