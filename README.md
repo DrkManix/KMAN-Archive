@@ -48,8 +48,24 @@ Later in 1984, Amine el Mouaden, KMAN and ABOP member, was arrested, detained an
 ![https://github.com/DrkManix/KMAN-Archive/blob/master/img_archive/20200218_154559.jpg](https://github.com/DrkManix/KMAN-Archive/blob/master/img_archive/20200218_154559.jpg)
 ![https://github.com/DrkManix/KMAN-Archive/blob/master/img_archive/20200218_155550.jpg](https://github.com/DrkManix/KMAN-Archive/blob/master/img_archive/20200218_155550.jpg)
 
+# The Object
+
+![https://github.com/DrkManix/KMAN-Archive/blob/master/img_archive/20200218_145038.jpg](https://github.com/DrkManix/KMAN-Archive/blob/master/img_archive/20200218_145038.jpg)
+![https://github.com/DrkManix/KMAN-Archive/blob/master/img_archive/20200218_145048.jpg](https://github.com/DrkManix/KMAN-Archive/blob/master/img_archive/20200218_145048.jpg)
+![https://github.com/DrkManix/KMAN-Archive/blob/master/img_archive/20200218_145051.jpg](https://github.com/DrkManix/KMAN-Archive/blob/master/img_archive/20200218_145051.jpg)
+![https://github.com/DrkManix/KMAN-Archive/blob/master/img_archive/20200218_145106.jpg](https://github.com/DrkManix/KMAN-Archive/blob/master/img_archive/20200218_145106.jpg)
+![https://github.com/DrkManix/KMAN-Archive/blob/master/img_archive/20200218_145118.jpg](https://github.com/DrkManix/KMAN-Archive/blob/master/img_archive/20200218_145118.jpg)
+![https://github.com/DrkManix/KMAN-Archive/blob/master/img_archive/20200218_145124.jpg](https://github.com/DrkManix/KMAN-Archive/blob/master/img_archive/20200218_145124.jpg)
+![https://github.com/DrkManix/KMAN-Archive/blob/master/img_archive/20200218_145141.jpg](https://github.com/DrkManix/KMAN-Archive/blob/master/img_archive/20200218_145141.jpg)
+![https://github.com/DrkManix/KMAN-Archive/blob/master/img_archive/20200218_145145.jpg](https://github.com/DrkManix/KMAN-Archive/blob/master/img_archive/20200218_145145.jpg)
+![https://github.com/DrkManix/KMAN-Archive/blob/master/img_archive/20200218_145258.jpg](https://github.com/DrkManix/KMAN-Archive/blob/master/img_archive/20200218_145258.jpg)
+![https://github.com/DrkManix/KMAN-Archive/blob/master/img_archive/20200218_145302.jpg](https://github.com/DrkManix/KMAN-Archive/blob/master/img_archive/20200218_145302.jpg)
+
 # Transcoding
 
 How to transcode leather? How to explain the context and the signification of it and its value ?
 Value as a document carrier.
 Reproduction fac-similé, + keep its function.
+A briefcase is a narrow hard-sided box-shaped bag or case used mainly for carrying papers and equipped with a handle. Lawyers commonly use briefcases to carry briefs to present to a court, hence the name. Businesspeople and other white collar professionals also use briefcases to carry papers, and since the 1980s, electronic devices such as laptop computers and tablet computers. Some briefcases have only a main internal space, while others may have subsections, accordion sections, small pockets, or dividers. Briefcases may be made from leather, vinyl, durable fabric, thin metal (such as aluminium), or plastic. Leather, vinyl, or fabric briefcases may have externally-accessible pockets or sleeves in addition to the main storage space. Some briefcases made of fabric may have a shoulder strap. Briefcases typically have a lock to protect the contents. In the 2010s, briefcases may have padded internal pouches to protect laptops.
+
+Briefcases are descendants of the limp satchel used in the fourteenth century for carrying money and valuables. It was called a "budget", derived from the Latin word "bulga" or Irish word "bolg", both meaning leather bag (in Irish it also means 'stomach'), and also the source of the financial term "budget".
