@@ -1,7 +1,7 @@
 # KMAN-Archive
 https://www.notion.so/darkmanix/KMAN-Collective-of-Moroccan-workers-in-NL-4a97f41b622d4bbe897640a220e802c1
 
-https://www.notion.so/darkmanix/The-Object-44213b3dcb9e482b97ec3b84c467c980#b8b6d205e9c042a7a525528481bada3a
+![https://github.com/DrkManix/KMAN-Archive/blob/master/img_archive/20200218_145030.jpg](https://github.com/DrkManix/KMAN-Archive/blob/master/img_archive/20200218_145030.jpg)
 
 ## KMAN FOUNDATION
 ![https://50jaarmigratie.nl/wp-content/uploads/2019/07/kman2_0000_Laag-13-1024x580.jpg](https://50jaarmigratie.nl/wp-content/uploads/2019/07/kman2_0000_Laag-13-1024x580.jpg)
