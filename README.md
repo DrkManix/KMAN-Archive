@@ -65,8 +65,8 @@ Later in 1984, Amine el Mouaden, KMAN and ABOP member, was arrested, detained an
 
 How to transcode leather?
 
-[https://www.youtube.com/watch?v=oogQU8Ey7oI](https://www.youtube.com/watch?v=oogQU8Ey7oI)
-[https://www.youtube.com/watch?v=ISWVizLuz4Y](https://www.youtube.com/watch?v=ISWVizLuz4Y)
+1. [https://www.youtube.com/watch?v=oogQU8Ey7oI](https://www.youtube.com/watch?v=oogQU8Ey7oI)
+2. [https://www.youtube.com/watch?v=ISWVizLuz4Y](https://www.youtube.com/watch?v=ISWVizLuz4Y)
 
 How to explain the context and the signification of it and its value ?
 Value as a document carrier.
