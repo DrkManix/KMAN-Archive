@@ -84,3 +84,7 @@ Briefcases are descendants of the limp satchel used in the fourteenth century fo
 
 How do a social movement gets killed/silenced/assimilated by institutions ?
 Exemple of the KMAN
+
+# Timeline
+23/03 - 3D model of leather document carrier
+30/03 - audio transcripts 
