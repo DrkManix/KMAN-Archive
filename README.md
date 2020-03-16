@@ -47,3 +47,9 @@ Later in 1984, Amine el Mouaden, KMAN and ABOP member, was arrested, detained an
 ![https://github.com/DrkManix/KMAN-Archive/blob/master/img_archive/20200218_153357.jpg](https://github.com/DrkManix/KMAN-Archive/blob/master/img_archive/20200218_153357.jpg)
 ![https://github.com/DrkManix/KMAN-Archive/blob/master/img_archive/20200218_154559.jpg](https://github.com/DrkManix/KMAN-Archive/blob/master/img_archive/20200218_154559.jpg)
 ![https://github.com/DrkManix/KMAN-Archive/blob/master/img_archive/20200218_155550.jpg](https://github.com/DrkManix/KMAN-Archive/blob/master/img_archive/20200218_155550.jpg)
+
+# Transcoding
+
+How to transcode leather? How to explain the context and the signification of it and its value ?
+Value as a document carrier.
+Reproduction fac-similé, + keep its function.
