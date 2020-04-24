@@ -1,8 +1,6 @@
 # KMAN-Archive
 https://www.notion.so/darkmanix/KMAN-Collective-of-Moroccan-workers-in-NL-4a97f41b622d4bbe897640a220e802c1
 
-![https://github.com/DrkManix/KMAN-Archive/blob/master/img_archive/20200218_145030.jpg | width=50](https://github.com/DrkManix/KMAN-Archive/blob/master/img_archive/20200218_145030.jpg)
-
 # Table of Contents
 1. [Artefact](#Artefact)
 2. [Research](#Research)
@@ -10,7 +8,7 @@ https://www.notion.so/darkmanix/KMAN-Collective-of-Moroccan-workers-in-NL-4a97f4
 4. [Reflection](#Reflection)
 
 ## Artefact
-![https://github.com/DrkManix/KMAN-Archive/blob/master/img_archive/20200218_145106.jpg]
+![https://github.com/DrkManix/KMAN-Archive/blob/master/img_archive/20200218_145106.jpg](https://github.com/DrkManix/KMAN-Archive/blob/master/img_archive/20200218_145106.jpg)
 
 
 ## Research
