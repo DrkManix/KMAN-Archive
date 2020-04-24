@@ -4,10 +4,10 @@ https://www.notion.so/darkmanix/KMAN-Collective-of-Moroccan-workers-in-NL-4a97f4
 ![https://github.com/DrkManix/KMAN-Archive/blob/master/img_archive/20200218_145030.jpg](https://github.com/DrkManix/KMAN-Archive/blob/master/img_archive/20200218_145030.jpg)
 
 # Table of Contents
-1. [Artefact](#example)
+1. [Artefact](#Artefact)
 2. [Research](#Research)
-3. [Transcoding](#third-example)
-4. [Reflection](#fourth-examplehttpwwwfourthexamplecom)
+3. [Transcoding](#Transcoding)
+4. [Reflection](#Reflection)
 
 ## Artefact
 
