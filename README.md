@@ -8,8 +8,7 @@ https://www.notion.so/darkmanix/KMAN-Collective-of-Moroccan-workers-in-NL-4a97f4
 4. [Reflection](#Reflection)
 
 ## Artefact
-![https://github.com/DrkManix/KMAN-Archive/blob/master/img_archive/20200218_145106.jpg](https://github.com/DrkManix/KMAN-Archive/blob/master/img_archive/20200218_145106.jpg){:height="50%" width="50%"}
-
+<img src="https://github.com/DrkManix/KMAN-Archive/blob/master/img_archive/20200218_145106.jpg" width="50" height="50">
 
 ## Research
 ![https://50jaarmigratie.nl/wp-content/uploads/2019/07/kman2_0000_Laag-13-1024x580.jpg](https://50jaarmigratie.nl/wp-content/uploads/2019/07/kman2_0000_Laag-13-1024x580.jpg)
