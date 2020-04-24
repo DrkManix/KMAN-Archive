@@ -10,17 +10,8 @@ https://www.notion.so/darkmanix/KMAN-Collective-of-Moroccan-workers-in-NL-4a97f4
 4. [Reflection](#Reflection)
 
 ## Artefact
+![https://github.com/DrkManix/KMAN-Archive/blob/master/img_archive/20200218_145106.jpg]
 
-![https://github.com/DrkManix/KMAN-Archive/blob/master/img_archive/20200218_145038.jpg | width=50](https://github.com/DrkManix/KMAN-Archive/blob/master/img_archive/20200218_145038.jpg)
-![https://github.com/DrkManix/KMAN-Archive/blob/master/img_archive/20200218_145048.jpg | width=50](https://github.com/DrkManix/KMAN-Archive/blob/master/img_archive/20200218_145048.jpg)
-![https://github.com/DrkManix/KMAN-Archive/blob/master/img_archive/20200218_145051.jpg | width=50](https://github.com/DrkManix/KMAN-Archive/blob/master/img_archive/20200218_145051.jpg)
-![https://github.com/DrkManix/KMAN-Archive/blob/master/img_archive/20200218_145106.jpg | width=50](https://github.com/DrkManix/KMAN-Archive/blob/master/img_archive/20200218_145106.jpg)
-![https://github.com/DrkManix/KMAN-Archive/blob/master/img_archive/20200218_145118.jpg | width=50](https://github.com/DrkManix/KMAN-Archive/blob/master/img_archive/20200218_145118.jpg)
-![https://github.com/DrkManix/KMAN-Archive/blob/master/img_archive/20200218_145124.jpg | width=50](https://github.com/DrkManix/KMAN-Archive/blob/master/img_archive/20200218_145124.jpg)
-![https://github.com/DrkManix/KMAN-Archive/blob/master/img_archive/20200218_145141.jpg | width=50](https://github.com/DrkManix/KMAN-Archive/blob/master/img_archive/20200218_145141.jpg)
-![https://github.com/DrkManix/KMAN-Archive/blob/master/img_archive/20200218_145145.jpg | width=50](https://github.com/DrkManix/KMAN-Archive/blob/master/img_archive/20200218_145145.jpg)
-![https://github.com/DrkManix/KMAN-Archive/blob/master/img_archive/20200218_145258.jpg | width=50](https://github.com/DrkManix/KMAN-Archive/blob/master/img_archive/20200218_145258.jpg)
-![https://github.com/DrkManix/KMAN-Archive/blob/master/img_archive/20200218_145302.jpg | width=50](https://github.com/DrkManix/KMAN-Archive/blob/master/img_archive/20200218_145302.jpg)
 
 ## Research
 ![https://50jaarmigratie.nl/wp-content/uploads/2019/07/kman2_0000_Laag-13-1024x580.jpg](https://50jaarmigratie.nl/wp-content/uploads/2019/07/kman2_0000_Laag-13-1024x580.jpg)
