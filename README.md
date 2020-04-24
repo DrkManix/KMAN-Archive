@@ -5,11 +5,24 @@ https://www.notion.so/darkmanix/KMAN-Collective-of-Moroccan-workers-in-NL-4a97f4
 
 # Table of Contents
 1. [Artefact](#example)
-2. [Research](#example2)
+2. [Research](#Research)
 3. [Transcoding](#third-example)
 4. [Reflection](#fourth-examplehttpwwwfourthexamplecom)
 
-## KMAN FOUNDATION
+## Artefact
+
+![https://github.com/DrkManix/KMAN-Archive/blob/master/img_archive/20200218_145038.jpg](https://github.com/DrkManix/KMAN-Archive/blob/master/img_archive/20200218_145038.jpg)
+![https://github.com/DrkManix/KMAN-Archive/blob/master/img_archive/20200218_145048.jpg](https://github.com/DrkManix/KMAN-Archive/blob/master/img_archive/20200218_145048.jpg)
+![https://github.com/DrkManix/KMAN-Archive/blob/master/img_archive/20200218_145051.jpg](https://github.com/DrkManix/KMAN-Archive/blob/master/img_archive/20200218_145051.jpg)
+![https://github.com/DrkManix/KMAN-Archive/blob/master/img_archive/20200218_145106.jpg](https://github.com/DrkManix/KMAN-Archive/blob/master/img_archive/20200218_145106.jpg)
+![https://github.com/DrkManix/KMAN-Archive/blob/master/img_archive/20200218_145118.jpg](https://github.com/DrkManix/KMAN-Archive/blob/master/img_archive/20200218_145118.jpg)
+![https://github.com/DrkManix/KMAN-Archive/blob/master/img_archive/20200218_145124.jpg](https://github.com/DrkManix/KMAN-Archive/blob/master/img_archive/20200218_145124.jpg)
+![https://github.com/DrkManix/KMAN-Archive/blob/master/img_archive/20200218_145141.jpg](https://github.com/DrkManix/KMAN-Archive/blob/master/img_archive/20200218_145141.jpg)
+![https://github.com/DrkManix/KMAN-Archive/blob/master/img_archive/20200218_145145.jpg](https://github.com/DrkManix/KMAN-Archive/blob/master/img_archive/20200218_145145.jpg)
+![https://github.com/DrkManix/KMAN-Archive/blob/master/img_archive/20200218_145258.jpg](https://github.com/DrkManix/KMAN-Archive/blob/master/img_archive/20200218_145258.jpg)
+![https://github.com/DrkManix/KMAN-Archive/blob/master/img_archive/20200218_145302.jpg](https://github.com/DrkManix/KMAN-Archive/blob/master/img_archive/20200218_145302.jpg)
+
+## Research
 ![https://50jaarmigratie.nl/wp-content/uploads/2019/07/kman2_0000_Laag-13-1024x580.jpg](https://50jaarmigratie.nl/wp-content/uploads/2019/07/kman2_0000_Laag-13-1024x580.jpg)
 
 The Committee for Moroccan Workers in the Netherlands was established on 13 September 1975 at an action meeting of Moroccans in a squatted warehouse on Bloemgracht in the Jordaan, a warehouse in which many action groups, including the Palestinian Committee, Amnesty International and BAK-: Jordaan, had elected their domicile at the time.
@@ -19,14 +32,14 @@ The KMAN was a national organization, but also had local departments and divisio
 
 ![https://50jaarmigratie.nl/wp-content/uploads/2019/07/kman2_0001_Laag-12-1024x580.jpg](https://50jaarmigratie.nl/wp-content/uploads/2019/07/kman2_0001_Laag-12-1024x580.jpg)
 
-## The KMAN newspaper
+### The KMAN newspaper
 
 Quite soon after the establishment of the KMAN, the first KMAN newspaper appeared, called The Moroccan Worker. The intention was to provide a two-monthly publication. It turned out to be difficult to realize this over and over again. The KMAN newspaper did not appear in 1982. Since the beginning of 1983, an edition of the newspaper appeared again irregularly.
 The print run was always quite large, 5,000 to 7,000 copies. One half of the newspaper was in Dutch, the other in Arabic. The content of both parts was not the same, sometimes they were separate articles, sometimes translations or adapted versions. Costs of the newspaper were covered from the sale and from subsidies from the NOVIB. Distribution took place in-house through sales at activities, in the building, through friendly organizations, kiosks and the like. Theme numbers were sent to special organizations and were sometimes taken by them in large numbers. For example, 1500 copies of a themed issue on education were purchased by the ABOP. Up to and including 1988 29 editions of the "Moroccan Worker" were published. In 1990 the KMAN again published a more modest edition: the KMAN bulletin. Local departments often made their own newsletters. In 1995 the first two issues of a new edition of the KMAN entitled MigrantBurger were published
 
 [https://50jaarmigratie.nl/?page_id=1849](https://50jaarmigratie.nl/?page_id=1849)
 
-## ACTIONS FROM THE AMICALES
+### ACTIONS FROM THE AMICALES
 
 ![https://50jaarmigratie.nl/wp-content/uploads/2019/07/Amicales_0017_Laag-19.jpg](https://50jaarmigratie.nl/wp-content/uploads/2019/07/Amicales_0017_Laag-19.jpg)
 
@@ -41,7 +54,7 @@ Later in 1984, Amine el Mouaden, KMAN and ABOP member, was arrested, detained an
 
 ![https://50jaarmigratie.nl/wp-content/uploads/2019/07/Amicales_0031_Laag-5.jpg](https://50jaarmigratie.nl/wp-content/uploads/2019/07/Amicales_0031_Laag-5.jpg)
 
-# Collect from IISH
+### Collect from IISH
 
 ![https://github.com/DrkManix/KMAN-Archive/blob/master/img_archive/20200218_133735.jpg](https://github.com/DrkManix/KMAN-Archive/blob/master/img_archive/20200218_133735.jpg)
 ![https://github.com/DrkManix/KMAN-Archive/blob/master/img_archive/20200218_133807.jpg](https://github.com/DrkManix/KMAN-Archive/blob/master/img_archive/20200218_133807.jpg)
@@ -54,20 +67,9 @@ Later in 1984, Amine el Mouaden, KMAN and ABOP member, was arrested, detained an
 ![https://github.com/DrkManix/KMAN-Archive/blob/master/img_archive/20200218_154559.jpg](https://github.com/DrkManix/KMAN-Archive/blob/master/img_archive/20200218_154559.jpg)
 ![https://github.com/DrkManix/KMAN-Archive/blob/master/img_archive/20200218_155550.jpg](https://github.com/DrkManix/KMAN-Archive/blob/master/img_archive/20200218_155550.jpg)
 
-# The Object
 
-![https://github.com/DrkManix/KMAN-Archive/blob/master/img_archive/20200218_145038.jpg](https://github.com/DrkManix/KMAN-Archive/blob/master/img_archive/20200218_145038.jpg)
-![https://github.com/DrkManix/KMAN-Archive/blob/master/img_archive/20200218_145048.jpg](https://github.com/DrkManix/KMAN-Archive/blob/master/img_archive/20200218_145048.jpg)
-![https://github.com/DrkManix/KMAN-Archive/blob/master/img_archive/20200218_145051.jpg](https://github.com/DrkManix/KMAN-Archive/blob/master/img_archive/20200218_145051.jpg)
-![https://github.com/DrkManix/KMAN-Archive/blob/master/img_archive/20200218_145106.jpg](https://github.com/DrkManix/KMAN-Archive/blob/master/img_archive/20200218_145106.jpg)
-![https://github.com/DrkManix/KMAN-Archive/blob/master/img_archive/20200218_145118.jpg](https://github.com/DrkManix/KMAN-Archive/blob/master/img_archive/20200218_145118.jpg)
-![https://github.com/DrkManix/KMAN-Archive/blob/master/img_archive/20200218_145124.jpg](https://github.com/DrkManix/KMAN-Archive/blob/master/img_archive/20200218_145124.jpg)
-![https://github.com/DrkManix/KMAN-Archive/blob/master/img_archive/20200218_145141.jpg](https://github.com/DrkManix/KMAN-Archive/blob/master/img_archive/20200218_145141.jpg)
-![https://github.com/DrkManix/KMAN-Archive/blob/master/img_archive/20200218_145145.jpg](https://github.com/DrkManix/KMAN-Archive/blob/master/img_archive/20200218_145145.jpg)
-![https://github.com/DrkManix/KMAN-Archive/blob/master/img_archive/20200218_145258.jpg](https://github.com/DrkManix/KMAN-Archive/blob/master/img_archive/20200218_145258.jpg)
-![https://github.com/DrkManix/KMAN-Archive/blob/master/img_archive/20200218_145302.jpg](https://github.com/DrkManix/KMAN-Archive/blob/master/img_archive/20200218_145302.jpg)
 
-# Transcoding
+## Transcoding
 
 How to transcode leather?
 
@@ -86,11 +88,11 @@ A briefcase is a narrow hard-sided box-shaped bag or case used mainly for carryi
 
 Briefcases are descendants of the limp satchel used in the fourteenth century for carrying money and valuables. It was called a "budget", derived from the Latin word "bulga" or Irish word "bolg", both meaning leather bag (in Irish it also means 'stomach'), and also the source of the financial term "budget".
 
-# Research question
+## Reflection
 
 How do a social movement gets killed/silenced/assimilated by institutions ?
 Exemple of the KMAN
 
-# Timeline
+### Timeline
 23/03 - 3D model of leather document carrier
 30/03 - audio transcripts 
