@@ -84,4 +84,7 @@ Exemple of the KMAN
 
 ### Timeline
 23/03 - 3D model of leather document carrier
-30/03 - audio transcripts 
+30/03 - audio transcripts
+06/04 - drawings
+13/04 - start making the files in unity
+20/04 - 
