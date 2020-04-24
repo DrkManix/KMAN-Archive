@@ -63,10 +63,28 @@ Later in 1984, Amine el Mouaden, KMAN and ABOP member, was arrested, detained an
 
 # Transcoding
 
-How to transcode leather? How to explain the context and the signification of it and its value ?
+How to transcode leather?
+
+1. [https://www.youtube.com/watch?v=oogQU8Ey7oI](https://www.youtube.com/watch?v=oogQU8Ey7oI)
+2. [https://www.youtube.com/watch?v=ISWVizLuz4Y](https://www.youtube.com/watch?v=ISWVizLuz4Y)
+
+Using sound and 3D modelling to create a digital fac-similé, (maybe in Unity) that can be opened and display transcoded content from the archive edited into a narrative that follows the research question.
+
+diversity of transcription, from image to sound, from picture to written description or drawing, etc.
+
+How to explain the context and the signification of it and its value ?
 Value as a document carrier.
 Reproduction fac-similé, + keep its function.
 
 A briefcase is a narrow hard-sided box-shaped bag or case used mainly for carrying papers and equipped with a handle. Lawyers commonly use briefcases to carry briefs to present to a court, hence the name. Businesspeople and other white collar professionals also use briefcases to carry papers, and since the 1980s, electronic devices such as laptop computers and tablet computers. Some briefcases have only a main internal space, while others may have subsections, accordion sections, small pockets, or dividers. Briefcases may be made from leather, vinyl, durable fabric, thin metal (such as aluminium), or plastic. Leather, vinyl, or fabric briefcases may have externally-accessible pockets or sleeves in addition to the main storage space. Some briefcases made of fabric may have a shoulder strap. Briefcases typically have a lock to protect the contents. In the 2010s, briefcases may have padded internal pouches to protect laptops.
 
 Briefcases are descendants of the limp satchel used in the fourteenth century for carrying money and valuables. It was called a "budget", derived from the Latin word "bulga" or Irish word "bolg", both meaning leather bag (in Irish it also means 'stomach'), and also the source of the financial term "budget".
+
+# Research question
+
+How do a social movement gets killed/silenced/assimilated by institutions ?
+Exemple of the KMAN
+
+# Timeline
+23/03 - 3D model of leather document carrier
+30/03 - audio transcripts 
