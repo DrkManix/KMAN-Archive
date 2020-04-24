@@ -3,6 +3,12 @@ https://www.notion.so/darkmanix/KMAN-Collective-of-Moroccan-workers-in-NL-4a97f4
 
 ![https://github.com/DrkManix/KMAN-Archive/blob/master/img_archive/20200218_145030.jpg](https://github.com/DrkManix/KMAN-Archive/blob/master/img_archive/20200218_145030.jpg)
 
+# Table of Contents
+1. [Artefact](#example)
+2. [Research](#example2)
+3. [Transcoding](#third-example)
+4. [Reflection](#fourth-examplehttpwwwfourthexamplecom)
+
 ## KMAN FOUNDATION
 ![https://50jaarmigratie.nl/wp-content/uploads/2019/07/kman2_0000_Laag-13-1024x580.jpg](https://50jaarmigratie.nl/wp-content/uploads/2019/07/kman2_0000_Laag-13-1024x580.jpg)
 
