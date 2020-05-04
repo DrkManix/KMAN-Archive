@@ -87,7 +87,7 @@ For this, i assembled different mediums and recorded them many times on differen
 
 
 ### Results
-Some of your transcoding experiments may have smaller outcome sketches like images or short video tests. They can go directly within this section. Or maybe this transcoding became a part of the final outcome format. When that is the case, you can simply include a [hyperlink](#) to the final outcomes in the **Transcoding** section. In the final outcome section below you can embed or explain the final format outcome in detail.  
+  
 
 ## Transcoding No. 2
 | Transcoding | 2 |  
@@ -105,7 +105,7 @@ From there I edit those content into the narrative to give context to them and d
 
 
 ### Results
-Some of your transcoding experiments may have smaller outcome sketches like images or short video tests. They can go directly within this section. Or maybe this transcoding became a part of the final outcome format. When that is the case, you can simply include a [hyperlink](#) to the final outcomes in the **Transcoding** section. In the final outcome section below you can embed or explain the final format outcome in detail.  
+ 
  
 
 # Reflection
