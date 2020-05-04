@@ -1,4 +1,4 @@
-[<img src="Documentation/img/cover_img.png" width="100%">](#)
+[<img src="https://github.com/DrkManix/KMAN-Archive/blob/master/img_archive/Artefact_02.jpg" width="100%">](#)
 # KMAN
 
 ### Table of Contents
