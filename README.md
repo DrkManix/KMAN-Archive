@@ -57,7 +57,7 @@ Later in 1984, Amine el Mouaden, KMAN and ABOP member, was arrested, detained an
 # Transcoding
 Using sound and 3D modelling to create a digital fac-similé, (maybe in Unity) that can be opened and display transcoded content from the archive edited into a narrative that follows the question: How does a social movement dies?
 The resilience of this archive relies on the diversity of transcription, from image to sound, from picture to written description or drawing, etc.
-By creating a narrative, linking the different elements of this archive represented by the briefcase, the goal is to explain the context and the signification of it and its value, either as a document carrier or a reproduction fac-similé, and tp keep its primary function.
+By creating a narrative, linking the different elements of this archive represented by the briefcase, the goal is to explain the context and the signification of it and its value, either as a document carrier or a reproduction fac-similé, and to keep its primary function but also giving it a new symbolic one as an archive in itself.
 
 ## Transcoding No. 1
 | Transcoding | 1 |  
@@ -66,57 +66,65 @@ By creating a narrative, linking the different elements of this archive represen
 | **Medium** | Sound
 | **Result** | Ambiant Sounds of leather and paper folding and bending
 ### Description
-How to transcode leather?
+How to transcode leather? How do you describe it? Its texture, its feeling, its sound.
+
+Leather is a durable and flexible material created by tanning animal rawhide and skins. The most common raw material is cattle hide. It can be produced at manufacturing scales ranging from artisan to modern industrial scale.
+
+Leather is used to make a variety of articles, including footwear, automobile seats, clothing, bags, book bindings, fashion accessories, and furniture. It is produced in a wide variety of types and styles and decorated by a wide range of techniques. The earliest record of leather artifacts dates back to 2200 BC.
+
+Many forms of artificial leather have been developed, usually involving polyurethane or vinyl coatings applied to a cloth backing.
 
 1. [https://www.youtube.com/watch?v=oogQU8Ey7oI](https://www.youtube.com/watch?v=oogQU8Ey7oI)
 2. [https://www.youtube.com/watch?v=ISWVizLuz4Y](https://www.youtube.com/watch?v=ISWVizLuz4Y) 
-You can structure the information and documentation for each transcoding, design research or coding tool as you like. It's important that you make clear the aims & goals of the transcoding, what methods and tools you use. If this is often the same across different transcodings, consider making a standardised table at the beginning of each.
-
-You should include well-formatted documentation of your experiments and developments below. Someone without previous knowledge about your work should be able to follow along the steps, aims and results of your developments from this structure. Make sure all media used is correctly linked or embedded (images, PDFs, Videos, etc). 
 
 ### Methods
 For this, i assembled different mediums and recorded them many times on differents settings, such as they can be assembled to give the feeling of a spaciality and not just a sound effect.
 
 [<img src="https://j.gifs.com/ROJr3z.gif" width="50%">](https://youtu.be/o2rmmqxC4NU)
 
- 
 
 ### Results
 Some of your transcoding experiments may have smaller outcome sketches like images or short video tests. They can go directly within this section. Or maybe this transcoding became a part of the final outcome format. When that is the case, you can simply include a [hyperlink](#) to the final outcomes in the **Transcoding** section. In the final outcome section below you can embed or explain the final format outcome in detail.  
 
-## Transcoding Tool 
+## Transcoding No. 2
+| Transcoding | 2 |  
+|--|--|
+**Purpose** | Create a narrative linking different documents of the archive as a story
+| **Medium** | Sound/Writing
+| **Result** | Audio Storytelling/Reading track
 ### Description
-You might have made multiple coding tools during the semester. Or the transcoding tool might be part of a specific transcoding experiment itself. It's up to you to define the linear flow of the Readme. Just like the transcoding of media itself, the coding tool should be well documented. So if you are using a coding tool in your first experiment, include the documentation of the coding tool **before** you include the results, etc. 
 
-### Aims
-Include the main aims or intentions behind making the tool, and what it is used for. 
 
 ### Methods
-This includes the coding languages, coding frameworks or libraries, and any platforms or webtools for example.   
+For this, i organized the content i gathered from the archives by date and type of medium. Most documents are either written in arabic, dutch or french, so i translate extracts of the french and dutch documents to english for accessibility.
+From there I edit those content into the narrative to give context to them and deepness to the statement.
+[<img src="https://j.gifs.com/ROJr3z.gif" width="50%">](https://youtu.be/o2rmmqxC4NU)
+
 
 ### Results
-The coding tool will vary a lot between different students. So depending on the use and type, you may include more or less documentation here. 
-
-### Source Links
-Please include links to the tools, sources etc used during the coding. E.g. the resources used for making your coding tool.  
+Some of your transcoding experiments may have smaller outcome sketches like images or short video tests. They can go directly within this section. Or maybe this transcoding became a part of the final outcome format. When that is the case, you can simply include a [hyperlink](#) to the final outcomes in the **Transcoding** section. In the final outcome section below you can embed or explain the final format outcome in detail.  
  
 
 # Reflection
 How do a social movement gets killed/silenced/assimilated by institutions ?
 Exemple of the KMAN 
+ Some explanations highlight internal factors like factionalization, whereas others stress external factors like repressive strategies to identify, constrain, and destroy
+ y, the last stage in the social movement life cycle is decline,
+or “institutionalization.” Decline does not necessarily mean failure for social movements though. Instead, Miller (1999) argues,
+there are four ways in which social movements can decline:
+• Repression,
+• Co-optation,
+• Success, and/or
+• Failure,
+Others have added establishment with mainstream as another
+way in which they decline
 
 # Outcomes
-This section will be different for each student, depending on how and what is formatted as a final result for the semester assignment. Nevertheless a clear written and documented outcomes is important. So give the appropriate subsections or formats to make this as thorough as possible. 
 
-### Outcome Links
-Here you link to your final assignment outcomes. This could be a website, a video, etc etc. Please include links to the appropriate GitHub folder on your repository where your coding tool is stored. 
-
-This is the main way to access your IMD + Coding outcomes for the semester. So its very important that you check for bugs, troubleshoot hyperlink issues, embedded media issues etc. Please make sure you KNOW where each file you use is stored. E.g. If you migrated from Notion markdown into GitHub, its **VERY IMPORTANT** to know that Notion randomly stores images on an Amazon server. It changes those locations all the time. So if your main outcome or documentation is still grabbing those links, **its very likely** they might disappear before collectives. So please have all media and necessary files managed well in your own locations (online or github etc).   
+### Outcome Links   
 
 # Conclusion 
 You might have a nice conclusive observation to share at the end :) 
 
 ## Bibliography
-Of course, as with all research work please include a good bibliography with links, and any references that were used or might give additional depth to the work. 
-
 <a name="footnote-1">**[1]**</a>: Look at this little referenced footnote over here. You can look up different text formats for referencing books, online articles, films etc. 
