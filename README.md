@@ -31,17 +31,22 @@ Traditionally, the CDT was allied with the [Socialist Union of Popular Forces](
 
 # Research
 ## KMAN Origins
-[<img src="https://github.com/DrkManix/KMAN-Archive/blob/master/img_archive/KMAN-Newspaper1_003.jpg" width="50%">]
+[<"https://github.com/DrkManix/KMAN-Archive/blob/master/img_archive/KMAN-publication_001.jpg" width="50%">]
+
 The Committee for Moroccan Workers in the Netherlands was established on 13 September 1975 at an action meeting of Moroccans in a squatted warehouse on Bloemgracht in the Jordaan, a warehouse in which many action groups, including the Palestinian Committee, Amnesty International and BAK-: Jordaan, had elected their domicile at the time.
 Prior to the meeting, a demonstration had been organized by a joint venture of the Moroccan Illegal Committee, the Dutch-Turkish Workers' Association Amsterdam (HTIB), the Surinamese LOSON and the Foreign Workers Collective. The demonstration focused "against the Regularization Measure and against the discriminatory action of the Aliens Police in Amsterdam."
 Around 600 workers visited the Aliens Police, the Social Services, the Employment Office and the City Hall where a petition was offered to Mayor Samkalden. At an action meeting of Moroccans in the evening after the demonstration, it was decided in the presence of around 150 people to set up the Committee of Moroccan Workers in the Netherlands (KMAN). A board was chosen and a program was formulated. According to the statements of this meeting, the KMAN had to become an "autonomous and democratic mass organization" with the objective of defending the interests of Moroccan workers in the Netherlands.
 The KMAN was a national organization, but also had local departments and divisions, such as the KMAR in Rotterdam and the AMMU in Utrecht.
 
 ### The Newspaper
+[<"https://github.com/DrkManix/KMAN-Archive/blob/master/img_archive/KMAN-Newspaper1_002.jpg" width="50%">]
+
 Quite soon after the establishment of the KMAN, the first KMAN newspaper appeared, called The Moroccan Worker. The intention was to provide a two-monthly publication. It turned out to be difficult to realize this over and over again. The KMAN newspaper did not appear in 1982. Since the beginning of 1983, an edition of the newspaper appeared again irregularly.
 The print run was always quite large, 5,000 to 7,000 copies. One half of the newspaper was in Dutch, the other in Arabic. The content of both parts was not the same, sometimes they were separate articles, sometimes translations or adapted versions. Costs of the newspaper were covered from the sale and from subsidies from the NOVIB. Distribution took place in-house through sales at activities, in the building, through friendly organizations, kiosks and the like. Theme numbers were sent to special organizations and were sometimes taken by them in large numbers. For example, 1500 copies of a themed issue on education were purchased by the ABOP. Up to and including 1988 29 editions of the "Moroccan Worker" were published. In 1990 the KMAN again published a more modest edition: the KMAN bulletin. Local departments often made their own newsletters. In 1995 the first two issues of a new edition of the KMAN entitled MigrantBurger were published <sup>[[1]](#footnote-1)</sup>
 
 ### The Amicales Menace
+[<"https://github.com/DrkManix/KMAN-Archive/blob/master/img_archive/KMAN-publication_003.jpg" width="50%">]
+
 The Amicales were known for taking active and often violent action against "harmful influences". The Amicales were also active in reporting Moroccans in the Netherlands who were involved in demonstrations, the KMAN, or other elements that were seen as undesirable. On 23 April 1983, for example, the consul received a letter from the Amicales. The Amicales had opened a new office a few days earlier. Neighborhood organizations and the KMAN were present at this opening to demonstrate. The Amicales then found out eight names of Moroccan protesters and mentioned them in the letter.
 People who went against the hairs of the Amicales and the Moroccan government were subsequently made life miserable. A good example of this is Abdou Menebhi, who has had to wait for years for his passport application to be fulfilled. The application was made in 1979. In 1982 even the consul in the Netherlands asked to grant the application. Only in 1994 did he actually get the passport.
 Physical repression was also not shunned. For example, fighters appeared during the Ajax-Morocco football match in 1976. In January 1982, KMAN members were also physically attacked twice. Once in a cafe in Eindhoven, again on a cultural evening in Geleen.
