@@ -110,6 +110,7 @@ In Mande society, the jeli was an historian, advisor, arbitrator, praise singer 
 ### Methods
 For this, i organized the content i gathered from the archives by date and type of medium. Most documents are either written in arabic, dutch or french, so i translate extracts of the french and dutch documents to english for accessibility.
 From there I edit those content into the narrative to give context to them and deepness to the statement.
+
 <"insert documentation here">
 
 
