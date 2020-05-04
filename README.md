@@ -4,7 +4,7 @@
 ### Table of Contents
 1. [Artefact](#Artefact)
     1. [Metadata](#Metadata)
-2. [Research](#Research-h1)
+2. [Research](#Research)
 3. [Transcoding](#Transcoding)
     1. [Transcoding No. 1](#Transcoding-no-1)
     2. [Transcoding Tool](#Transcoding-tool)
@@ -29,18 +29,19 @@ Traditionally, the CDT was allied with the [Socialist Union of Popular Forces](
 | **Date** | 1997
 |![Green leather briefcase with golden embroidery](https://github.com/DrkManix/KMAN-Archive/blob/master/img_archive/Artefact_01.jpg)| Green leather briefcase with golden embroidery This is literally a description of what you see in the image, make sure its a clear, complete and concise overview of the artefact. It should make sense for someone who doesn't see the image itself.  Our final *Catalogue of Resilience* might make use of one representative image from each student, so important to put your moneyshot here. You can build a gallery of additional artefact images below. 
 
-# Research (H1)
-
+# Research
+## KMAN Origins
+[<img src="https://github.com/DrkManix/KMAN-Archive/blob/master/img_archive/KMAN-Newspaper1_003.jpg" width="50%">]
 The Committee for Moroccan Workers in the Netherlands was established on 13 September 1975 at an action meeting of Moroccans in a squatted warehouse on Bloemgracht in the Jordaan, a warehouse in which many action groups, including the Palestinian Committee, Amnesty International and BAK-: Jordaan, had elected their domicile at the time.
 Prior to the meeting, a demonstration had been organized by a joint venture of the Moroccan Illegal Committee, the Dutch-Turkish Workers' Association Amsterdam (HTIB), the Surinamese LOSON and the Foreign Workers Collective. The demonstration focused "against the Regularization Measure and against the discriminatory action of the Aliens Police in Amsterdam."
 Around 600 workers visited the Aliens Police, the Social Services, the Employment Office and the City Hall where a petition was offered to Mayor Samkalden. At an action meeting of Moroccans in the evening after the demonstration, it was decided in the presence of around 150 people to set up the Committee of Moroccan Workers in the Netherlands (KMAN). A board was chosen and a program was formulated. According to the statements of this meeting, the KMAN had to become an "autonomous and democratic mass organization" with the objective of defending the interests of Moroccan workers in the Netherlands.
 The KMAN was a national organization, but also had local departments and divisions, such as the KMAR in Rotterdam and the AMMU in Utrecht.
 
-## Research Sub-Heading (H2)
+### The Newspaper
 Quite soon after the establishment of the KMAN, the first KMAN newspaper appeared, called The Moroccan Worker. The intention was to provide a two-monthly publication. It turned out to be difficult to realize this over and over again. The KMAN newspaper did not appear in 1982. Since the beginning of 1983, an edition of the newspaper appeared again irregularly.
 The print run was always quite large, 5,000 to 7,000 copies. One half of the newspaper was in Dutch, the other in Arabic. The content of both parts was not the same, sometimes they were separate articles, sometimes translations or adapted versions. Costs of the newspaper were covered from the sale and from subsidies from the NOVIB. Distribution took place in-house through sales at activities, in the building, through friendly organizations, kiosks and the like. Theme numbers were sent to special organizations and were sometimes taken by them in large numbers. For example, 1500 copies of a themed issue on education were purchased by the ABOP. Up to and including 1988 29 editions of the "Moroccan Worker" were published. In 1990 the KMAN again published a more modest edition: the KMAN bulletin. Local departments often made their own newsletters. In 1995 the first two issues of a new edition of the KMAN entitled MigrantBurger were published <sup>[[1]](#footnote-1)</sup>
 
-### Research Sub-sub-heading (H3)
+### The Amicales Menace
 The Amicales were known for taking active and often violent action against "harmful influences". The Amicales were also active in reporting Moroccans in the Netherlands who were involved in demonstrations, the KMAN, or other elements that were seen as undesirable. On 23 April 1983, for example, the consul received a letter from the Amicales. The Amicales had opened a new office a few days earlier. Neighborhood organizations and the KMAN were present at this opening to demonstrate. The Amicales then found out eight names of Moroccan protesters and mentioned them in the letter.
 People who went against the hairs of the Amicales and the Moroccan government were subsequently made life miserable. A good example of this is Abdou Menebhi, who has had to wait for years for his passport application to be fulfilled. The application was made in 1979. In 1982 even the consul in the Netherlands asked to grant the application. Only in 1994 did he actually get the passport.
 Physical repression was also not shunned. For example, fighters appeared during the Ajax-Morocco football match in 1976. In January 1982, KMAN members were also physically attacked twice. Once in a cafe in Eindhoven, again on a cultural evening in Geleen.
@@ -49,38 +50,31 @@ Finally, the return to Morocco for KMAN members and people who worked with the K
 Later in 1984, Amine el Mouaden, KMAN and ABOP member, was arrested, detained and tortured for several weeks. These names were most likely passed on by the Amicales.
 
 # Transcoding
+Using sound and 3D modelling to create a digital fac-similé, (maybe in Unity) that can be opened and display transcoded content from the archive edited into a narrative that follows the question: How does a social movement dies?
+The resilience of this archive relies on the diversity of transcription, from image to sound, from picture to written description or drawing, etc.
+By creating a narrative, linking the different elements of this archive represented by the briefcase, the goal is to explain the context and the signification of it and its value, either as a document carrier or a reproduction fac-similé, and tp keep its primary function.
+
+## Transcoding No. 1
+| Transcoding | 1 |  
+|--|--|
+**Purpose** | Recreate a feeling of the original material through sound for non physical consultation of the items
+| **Medium** | Sound
+| **Result** | Ambiant Sounds of leather and paper folding and bending
+### Description
 How to transcode leather?
 
 1. [https://www.youtube.com/watch?v=oogQU8Ey7oI](https://www.youtube.com/watch?v=oogQU8Ey7oI)
-2. [https://www.youtube.com/watch?v=ISWVizLuz4Y](https://www.youtube.com/watch?v=ISWVizLuz4Y)
-
-Using sound and 3D modelling to create a digital fac-similé, (maybe in Unity) that can be opened and display transcoded content from the archive edited into a narrative that follows the research question.
-
-diversity of transcription, from image to sound, from picture to written description or drawing, etc.
-
-How to explain the context and the signification of it and its value ?
-Value as a document carrier.
-Reproduction fac-similé, + keep its function.
-
-## Transcoding No. 1
-### Description
-Short description here. You can structure the information and documentation for each transcoding, design research or coding tool as you like. It's important that you make clear the aims & goals of the transcoding, what methods and tools you use. If this is often the same across different transcodings, consider making a standardised table at the beginning of each.
+2. [https://www.youtube.com/watch?v=ISWVizLuz4Y](https://www.youtube.com/watch?v=ISWVizLuz4Y) 
+You can structure the information and documentation for each transcoding, design research or coding tool as you like. It's important that you make clear the aims & goals of the transcoding, what methods and tools you use. If this is often the same across different transcodings, consider making a standardised table at the beginning of each.
 
 You should include well-formatted documentation of your experiments and developments below. Someone without previous knowledge about your work should be able to follow along the steps, aims and results of your developments from this structure. Make sure all media used is correctly linked or embedded (images, PDFs, Videos, etc). 
 
 ### Methods
-Description of your methods, documentation of behind-the-scenes processes can go here. Think of the photos and videos you made when visiting the IISG or during captures of your artefact. You can use tools such as [Gifs.com](https://gifs.com/) to generate moving-image thumbnail to link to short videos.Just enough to give a clear overview, before getting into details.  
+For this, i assembled different mediums and recorded them many times on differents settings, such as they can be assembled to give the feeling of a spaciality and not just a sound effect.
 
-With some HTML tags you can do simple styling in markdown, for example:
-
-    <width="50%">
 [<img src="https://j.gifs.com/ROJr3z.gif" width="50%">](https://youtu.be/o2rmmqxC4NU)
 
-Remember to include the url link to jump to the full media, of course! 
-
-
-### Tools 
-Mention the tools that you used or made (if and when relevant). 
+ 
 
 ### Results
 Some of your transcoding experiments may have smaller outcome sketches like images or short video tests. They can go directly within this section. Or maybe this transcoding became a part of the final outcome format. When that is the case, you can simply include a [hyperlink](#) to the final outcomes in the **Transcoding** section. In the final outcome section below you can embed or explain the final format outcome in detail.  
