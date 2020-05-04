@@ -83,7 +83,7 @@ Many forms of artificial leather have been developed, usually involving polyuret
 ### Methods
 For this, i assembled different mediums and recorded them many times on differents settings, such as they can be assembled to give the feeling of a spaciality and not just a sound effect.
 
-[<img src="https://j.gifs.com/ROJr3z.gif" width="50%">](https://youtu.be/o2rmmqxC4NU)
+<insert documentation here>
 
 
 ### Results
@@ -96,12 +96,12 @@ For this, i assembled different mediums and recorded them many times on differen
 | **Medium** | Sound/Writing
 | **Result** | Audio Storytelling/Reading track
 ### Description
-
+<insert description here>
 
 ### Methods
 For this, i organized the content i gathered from the archives by date and type of medium. Most documents are either written in arabic, dutch or french, so i translate extracts of the french and dutch documents to english for accessibility.
 From there I edit those content into the narrative to give context to them and deepness to the statement.
-[<img src="https://j.gifs.com/ROJr3z.gif" width="50%">](https://youtu.be/o2rmmqxC4NU)
+<insert documentation here>
 
 
 ### Results
