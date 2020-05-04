@@ -48,11 +48,11 @@ Quite soon after the establishment of the KMAN, the first KMAN newspaper appeare
 The print run was always quite large, 5,000 to 7,000 copies. One half of the newspaper was in Dutch, the other in Arabic. The content of both parts was not the same, sometimes they were separate articles, sometimes translations or adapted versions. Costs of the newspaper were covered from the sale and from subsidies from the NOVIB. Distribution took place in-house through sales at activities, in the building, through friendly organizations, kiosks and the like. Theme numbers were sent to special organizations and were sometimes taken by them in large numbers. For example, 1500 copies of a themed issue on education were purchased by the ABOP. Up to and including 1988 29 editions of the "Moroccan Worker" were published. In 1990 the KMAN again published a more modest edition: the KMAN bulletin. Local departments often made their own newsletters. In 1995 the first two issues of a new edition of the KMAN entitled MigrantBurger were published <sup>[[1]](#footnote-1)</sup>
 
 ### The Amicales Menace
-[<img src="/img_archive/KMAN-publication_003.jpg" width="50%">]
-[<img src="/img_archive/KMAN-publication_004.jpg" width="50%">]
-[<img src="/img_archive/Newscuts.jpg" width="50%">]
-[<img src="/img_archive/Newscuts_83.jpg" width="50%">]
-[<img src="/img_archive/Telegram_87.jpg" width="50%">]
+[<img src="/img_archive/KMAN-publication_003.jpg" width="25%">]
+[<img src="/img_archive/KMAN-publication_004.jpg" width="25%">]
+[<img src="/img_archive/Newscuts.jpg" width="25%">]
+[<img src="/img_archive/Newscuts_83.jpg" width="25%">]
+[<img src="/img_archive/Telegram_87.jpg" width="25%">]
 
 The Amicales were known for taking active and often violent action against "harmful influences". The Amicales were also active in reporting Moroccans in the Netherlands who were involved in demonstrations, the KMAN, or other elements that were seen as undesirable. On 23 April 1983, for example, the consul received a letter from the Amicales. The Amicales had opened a new office a few days earlier. Neighborhood organizations and the KMAN were present at this opening to demonstrate. The Amicales then found out eight names of Moroccan protesters and mentioned them in the letter.
 People who went against the hairs of the Amicales and the Moroccan government were subsequently made life miserable. A good example of this is Abdou Menebhi, who has had to wait for years for his passport application to be fulfilled. The application was made in 1979. In 1982 even the consul in the Netherlands asked to grant the application. Only in 1994 did he actually get the passport.
