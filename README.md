@@ -32,6 +32,8 @@ Traditionally, the CDT was allied with the [Socialist Union of Popular Forces](
 # Research
 ## KMAN Origins
 [<img src="https://github.com/DrkManix/KMAN-Archive/blob/master/img_archive/KMAN-publication_001.jpg" width="50%">]
+<img src="https://github.com/DrkManix/KMAN-Archive/blob/master/img_archive/Marrokanse_Vrouw_009.jpg" width="25%">
+<img src="https://github.com/DrkManix/KMAN-Archive/blob/master/img_archive/KMAN-letter_01.jpg.jpg" width="25%">
 
 The Committee for Moroccan Workers in the Netherlands was established on 13 September 1975 at an action meeting of Moroccans in a squatted warehouse on Bloemgracht in the Jordaan, a warehouse in which many action groups, including the Palestinian Committee, Amnesty International and BAK-: Jordaan, had elected their domicile at the time.
 Prior to the meeting, a demonstration had been organized by a joint venture of the Moroccan Illegal Committee, the Dutch-Turkish Workers' Association Amsterdam (HTIB), the Surinamese LOSON and the Foreign Workers Collective. The demonstration focused "against the Regularization Measure and against the discriminatory action of the Aliens Police in Amsterdam."
