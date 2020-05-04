@@ -31,7 +31,7 @@ Traditionally, the CDT was allied with the [Socialist Union of Popular Forces](
 
 # Research
 ## KMAN Origins
-[<img src="https://github.com/DrkManix/KMAN-Archive/blob/master/img_archive/KMAN-publication_001.jpg" width="50%">]
+[<img src="https://github.com/DrkManix/KMAN-Archive/blob/master/img_archive/KMAN-publication_001.jpg" width="25%">]
 <img src="https://github.com/DrkManix/KMAN-Archive/blob/master/img_archive/Marrokanse_Vrouw_009.jpg" width="25%">
 <img src="https://github.com/DrkManix/KMAN-Archive/blob/master/img_archive/KMAN-letter_01.jpg" width="25%">
 
