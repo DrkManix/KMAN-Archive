@@ -49,6 +49,10 @@ The print run was always quite large, 5,000 to 7,000 copies. One half of the new
 
 ### The Amicales Menace
 [<img src="/img_archive/KMAN-publication_003.jpg" width="50%">]
+[<img src="/img_archive/KMAN-publication_004.jpg" width="50%">]
+[<img src="/img_archive/Newscuts.jpg" width="50%">]
+[<img src="/img_archive/Newscuts_83.jpg" width="50%">]
+[<img src="/img_archive/Telegram_87.jpg" width="50%">]
 
 The Amicales were known for taking active and often violent action against "harmful influences". The Amicales were also active in reporting Moroccans in the Netherlands who were involved in demonstrations, the KMAN, or other elements that were seen as undesirable. On 23 April 1983, for example, the consul received a letter from the Amicales. The Amicales had opened a new office a few days earlier. Neighborhood organizations and the KMAN were present at this opening to demonstrate. The Amicales then found out eight names of Moroccan protesters and mentioned them in the letter.
 People who went against the hairs of the Amicales and the Moroccan government were subsequently made life miserable. A good example of this is Abdou Menebhi, who has had to wait for years for his passport application to be fulfilled. The application was made in 1979. In 1982 even the consul in the Netherlands asked to grant the application. Only in 1994 did he actually get the passport.
