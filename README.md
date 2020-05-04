@@ -5,7 +5,7 @@
 1. [Artefact](#Artefact)
     1. [Metadata](#Metadata)
 2. [Research](#Research)
-    1. [KMAN Origins](#KMA-Origins)
+    1. [KMAN Origins](#KMAN-Origins)
     2. [The Newspaper](#The-Newspaper)
     3. [The Amicales Menace](#The-Amicales-Menace)
 3. [Transcoding](#Transcoding)
@@ -103,7 +103,9 @@ For this, i assembled different mediums and recorded them many times on differen
 | **Medium** | Sound/Writing
 | **Result** | Audio Storytelling/Reading track
 ### Description
-<"insert description here">
+Translation of extracts of documents to english.
+Recordings of thoses translation as a story.
+In Mande society, the jeli was an historian, advisor, arbitrator, praise singer (patronage), and storyteller. They essentially served as history books, preserving ancient stories and traditions through song. Their tradition was passed down through generations. The name jeli means "blood" in Manika language. They were believed to have deep connections to spiritual, social, or political powers. Speech was believed to have power in its capacity to recreate history and relationships.
 
 ### Methods
 For this, i organized the content i gathered from the archives by date and type of medium. Most documents are either written in arabic, dutch or french, so i translate extracts of the french and dutch documents to english for accessibility.
