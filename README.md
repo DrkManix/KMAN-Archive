@@ -94,7 +94,8 @@ For this, i assembled different mediums and recorded them many times on differen
 
 
 ### Results
-  
+  Audio:
+ [<img src="https://github.com/DrkManix/KMAN-Archive/blob/master/img_archive/Artefact_03.jpg" width="20%">](https://soundcloud.com/scratchinmenace/soundscape-file-consultation)
 
 ## Transcoding No. 2
 | Transcoding | 2 |  
