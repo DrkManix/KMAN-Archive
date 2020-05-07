@@ -119,7 +119,8 @@ From there I edit those content into the narrative to give context to them and d
 
 ### Results
  
- [<img src="https://github.com/DrkManix/KMAN-Archive/blob/master/img_archive/Artefact_01.jpg" width="100%">](https://soundcloud.com/scratchinmenace/sets/kman)
+ Audio Playlist:
+ [<img src="https://github.com/DrkManix/KMAN-Archive/blob/master/img_archive/Artefact_03.jpg" width="20%">](https://soundcloud.com/scratchinmenace/sets/kman)
 
 # Reflection
 How do a social movement gets killed/silenced/assimilated by institutions ?
