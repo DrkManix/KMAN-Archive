@@ -16,11 +16,10 @@
 6. [Conclusion](#conclusion)
 7. [Bibliography](#bibliography) 
 
-##<details><summary>Artefact</summary>
+##Artefact
 A briefcase is a narrow hard-sided box-shaped bag or case used mainly for carrying papers and equipped with a handle. Lawyers commonly use briefcases to carry briefs to present to a court, hence the name. Businesspeople and other white collar professionals also use briefcases to carry papers, and since the 1980s, electronic devices such as laptop computers and tablet computers. Some briefcases have only a main internal space, while others may have subsections, accordion sections, small pockets, or dividers. 
 This is a briefcase from The **Democratic Confederation of Labour** (CDT). It is a [national trade union center](https://en.wikipedia.org/wiki/National_trade_union_center) in [Morocco](https://en.wikipedia.org/wiki/Morocco). It was established in 1978.
 Traditionally, the CDT was allied with the [Socialist Union of Popular Forces](https://en.wikipedia.org/wiki/Socialist_Union_of_Popular_Forces) (USFP), but in 2002 the union broke its ties and subsequently, secretary general [Noubir El Amaoui](https://en.wikipedia.org/w/index.php?title=Noubir_El_Amaoui&action=edit&redlink=1) created his own political party.
-</details>
 
 ### Metadata
 | Tag | Data |  
@@ -34,6 +33,7 @@ Traditionally, the CDT was allied with the [Socialist Union of Popular Forces](
 |![Green leather briefcase with golden embroidery](https://github.com/DrkManix/KMAN-Archive/blob/master/img_archive/Artefact_01.jpg)| Green leather briefcase with golden embroidery This is literally a description of what you see in the image, make sure its a clear, complete and concise overview of the artefact. It should make sense for someone who doesn't see the image itself.  Our final *Catalogue of Resilience* might make use of one representative image from each student, so important to put your moneyshot here. You can build a gallery of additional artefact images below. 
 
 ## Research
+<details><summary>KMAN History</summary>
 ### KMAN Origins
 [<img src="https://github.com/DrkManix/KMAN-Archive/blob/master/img_archive/KMAN-publication_001.jpg" width="25%">]
 <img src="https://github.com/DrkManix/KMAN-Archive/blob/master/img_archive/Marrokanse_Vrouw_009.jpg" width="25%">
@@ -64,6 +64,7 @@ Physical repression was also not shunned. For example, fighters appeared during 
 There was also a raid in 1981 during a hunger strike in the Moses and Aaron Church in Amsterdam.
 Finally, the return to Morocco for KMAN members and people who worked with the KMAN was also very difficult. In 1978 one of the 182 hunger strikers was arrested and detained for several weeks.
 Later in 1984, Amine el Mouaden, KMAN and ABOP member, was arrested, detained and tortured for several weeks. These names were most likely passed on by the Amicales.
+</details>
 
 ## Transcoding
 Using sound and 3D modelling to create a digital fac-similé, (maybe in Unity) that can be opened and display transcoded content from the archive edited into a narrative that follows the question: How does a social movement dies?
