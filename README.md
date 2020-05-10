@@ -84,13 +84,13 @@ Leather is used to make a variety of articles, including footwear, automobile se
 
 Many forms of artificial leather have been developed, usually involving polyurethane or vinyl coatings applied to a cloth backing.
 
-1. <img src="https://j.gifs.com/4QyLX7.gif" width="50%">(https://www.youtube.com/watch?v=oogQU8Ey7oI)
-2. <img src="https://gifs.com/gif/asmr-no-talking-just-leather-gloves-r8l9A2" width="50%">(https://www.youtube.com/watch?v=ISWVizLuz4Y) 
+1. <img src="https://github.com/DrkManix/KMAN-Archive/blob/master/process/leatheryoutube1.gif" width="50%">(https://www.youtube.com/watch?v=oogQU8Ey7oI)
+2. <img src="https://github.com/DrkManix/KMAN-Archive/blob/master/process/leatheryoutube2.gif" width="50%">(https://www.youtube.com/watch?v=ISWVizLuz4Y) 
 
 ### Methods
 For this, i assembled different mediums and recorded them many times on differents settings, such as they can be assembled to give the feeling of a spaciality and not just a sound effect.
 
-<img src="https://j.gifs.com/P7Vqp4.gif" width="50%">(https://youtu.be/PGQyBnoiKJo)
+<img src="https://github.com/DrkManix/KMAN-Archive/blob/master/process/giftranscoding.gif" width="50%">(https://youtu.be/PGQyBnoiKJo)
 
 
 ### Results
