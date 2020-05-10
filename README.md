@@ -16,12 +16,12 @@
 6. [Conclusion](#Conclusion)
 7. [Bibliography](#Bibliography) 
 
-# Artefact
+## Artefact
 A briefcase is a narrow hard-sided box-shaped bag or case used mainly for carrying papers and equipped with a handle. Lawyers commonly use briefcases to carry briefs to present to a court, hence the name. Businesspeople and other white collar professionals also use briefcases to carry papers, and since the 1980s, electronic devices such as laptop computers and tablet computers. Some briefcases have only a main internal space, while others may have subsections, accordion sections, small pockets, or dividers. 
 This is a briefcase from The **Democratic Confederation of Labour** (CDT). It is a [national trade union center](https://en.wikipedia.org/wiki/National_trade_union_center) in [Morocco](https://en.wikipedia.org/wiki/Morocco). It was established in 1978.
 Traditionally, the CDT was allied with the [Socialist Union of Popular Forces](https://en.wikipedia.org/wiki/Socialist_Union_of_Popular_Forces) (USFP), but in 2002 the union broke its ties and subsequently, secretary general [Noubir El Amaoui](https://en.wikipedia.org/w/index.php?title=Noubir_El_Amaoui&action=edit&redlink=1) created his own political party.
 
-## Metadata
+### Metadata
 | Tag | Data |  
 |--|--|
 **IISG Call Number** | [IISG BG K21/62](https://search.iisg.amsterdam/Record/1099468)
@@ -32,8 +32,8 @@ Traditionally, the CDT was allied with the [Socialist Union of Popular Forces](
 | **Date** | 1997
 |![Green leather briefcase with golden embroidery](https://github.com/DrkManix/KMAN-Archive/blob/master/img_archive/Artefact_01.jpg)| Green leather briefcase with golden embroidery This is literally a description of what you see in the image, make sure its a clear, complete and concise overview of the artefact. It should make sense for someone who doesn't see the image itself.  Our final *Catalogue of Resilience* might make use of one representative image from each student, so important to put your moneyshot here. You can build a gallery of additional artefact images below. 
 
-# Research
-## KMAN Origins
+## Research
+### KMAN Origins
 [<img src="/img_archive/KMAN-publication_001.jpg" width="25%">]
 <img src="/img_archive/Marrokanse_Vrouw_009.jpg" width="25%">
 <img src="/img_archive/KMAN-letter_01.jpg" width="25%">
@@ -64,18 +64,18 @@ There was also a raid in 1981 during a hunger strike in the Moses and Aaron Chur
 Finally, the return to Morocco for KMAN members and people who worked with the KMAN was also very difficult. In 1978 one of the 182 hunger strikers was arrested and detained for several weeks.
 Later in 1984, Amine el Mouaden, KMAN and ABOP member, was arrested, detained and tortured for several weeks. These names were most likely passed on by the Amicales.
 
-# Transcoding
+## Transcoding
 Using sound and 3D modelling to create a digital fac-similé, (maybe in Unity) that can be opened and display transcoded content from the archive edited into a narrative that follows the question: How does a social movement dies?
 The resilience of this archive relies on the diversity of transcription, from image to sound, from picture to written description or drawing, etc.
 By creating a narrative, linking the different elements of this archive represented by the briefcase, the goal is to explain the context and the signification of it and its value, either as a document carrier or a reproduction fac-similé, and to keep its primary function but also giving it a new symbolic one as an archive in itself.
 
-## Transcoding No. 1
+### Transcoding No. 1
 | Transcoding | 1 |  
 |--|--|
 **Purpose** | Recreate a feeling of the original material through sound for non physical consultation of the items
 | **Medium** | Sound
 | **Result** | Ambiant Sounds of leather and paper folding and bending
-### Description
+#### Description
 How to transcode leather? How do you describe it? Its texture, its feeling, its sound.
 
 Leather is a durable and flexible material created by tanning animal rawhide and skins. The most common raw material is cattle hide. It can be produced at manufacturing scales ranging from artisan to modern industrial scale.
@@ -87,28 +87,28 @@ Many forms of artificial leather have been developed, usually involving polyuret
 1. <img src="https://github.com/DrkManix/KMAN-Archive/blob/master/process/leatheryoutube1.gif" width="50%">(https://www.youtube.com/watch?v=oogQU8Ey7oI)
 2. <img src="https://github.com/DrkManix/KMAN-Archive/blob/master/process/leatheryoutube2.gif" width="50%">(https://www.youtube.com/watch?v=ISWVizLuz4Y) 
 
-### Methods
+#### Methods
 For this, i assembled different mediums and recorded them many times on differents settings, such as they can be assembled to give the feeling of a spaciality and not just a sound effect.
 
 <img src="https://github.com/DrkManix/KMAN-Archive/blob/master/process/giftranscoding.gif" width="50%">(https://youtu.be/PGQyBnoiKJo)
 
 
-### Results
+#### Results
   Audio:
  [<img src="https://github.com/DrkManix/KMAN-Archive/blob/master/img_archive/Artefact_03.jpg" width="20%">](https://soundcloud.com/scratchinmenace/soundscape-file-consultation)
 
-## Transcoding No. 2
+### Transcoding No. 2
 | Transcoding | 2 |  
 |--|--|
 **Purpose** | Create a narrative linking different documents of the archive as a story
 | **Medium** | Sound/Writing
 | **Result** | Audio Storytelling/Reading track
-### Description
+#### Description
 Translation of extracts of documents to english.
 Recordings of thoses translation as a story.
 In Mande society, the jeli was an historian, advisor, arbitrator, praise singer (patronage), and storyteller. They essentially served as history books, preserving ancient stories and traditions through song. Their tradition was passed down through generations. The name jeli means "blood" in Manika language. They were believed to have deep connections to spiritual, social, or political powers. Speech was believed to have power in its capacity to recreate history and relationships.
 
-### Methods
+#### Methods
 For this, i organized the content i gathered from the archives by date and type of medium. Most documents are either written in arabic, dutch or french, so i translate extracts of the french and dutch documents to english for accessibility.
 From there I edit those content into the narrative to give context to them and deepness to the statement.
 
@@ -118,12 +118,12 @@ From there I edit those content into the narrative to give context to them and d
 <img src="https://github.com/DrkManix/KMAN-Archive/blob/master/process/ScreenShot04.png" width="100%">
 
 
-### Results
+#### Results
  
  Audio Playlist:
  [<img src="https://github.com/DrkManix/KMAN-Archive/blob/master/img_archive/Artefact_03.jpg" width="20%">](https://soundcloud.com/scratchinmenace/sets/kman)
 
-# Reflection
+## Reflection
 How do a social movement gets killed/silenced/assimilated by institutions ?
 Exemple of the KMAN 
  Some explanations highlight internal factors like factionalization, whereas others stress external factors like repressive strategies to identify, constrain, and destroy
@@ -137,11 +137,11 @@ there are four ways in which social movements can decline:
 Others have added establishment with mainstream as another
 way in which they decline
 
-# Outcomes
+## Outcomes
 
 ### Outcome Links   
 
-# Conclusion 
+## Conclusion 
 You might have a nice conclusive observation to share at the end :) 
 
 ## Bibliography
