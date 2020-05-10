@@ -1,4 +1,4 @@
-[<img src="/img_archive/Newscuts_87.jpg" width="100%">](#)
+[<img src="/process/cover-1.jpg" width="100%">](#)
 # KMAN
 
 ### Table of Contents
