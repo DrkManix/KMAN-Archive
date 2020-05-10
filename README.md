@@ -90,7 +90,7 @@ Many forms of artificial leather have been developed, usually involving polyuret
 ### Methods
 For this, i assembled different mediums and recorded them many times on differents settings, such as they can be assembled to give the feeling of a spaciality and not just a sound effect.
 
-<"insert documentation here">
+<img src="https://j.gifs.com/P7Vqp4.gif" width="50%">(https://youtu.be/PGQyBnoiKJo)
 
 
 ### Results
