@@ -2,19 +2,19 @@
 # KMAN
 
 ### Table of Contents
-1. [Artefact](#Artefact)
-    1. [Metadata](#Metadata)
-2. [Research](#Research)
-    1. [KMAN Origins](#KMAN-Origins)
-    2. [The Newspaper](#The-Newspaper)
-    3. [The Amicales Menace](#The-Amicales-Menace)
-3. [Transcoding](#Transcoding)
-    1. [Transcoding No. 1](#Transcoding-no-1)
-    2. [Transcoding No. 2](#Transcoding-no-2)
-4. [Reflection](#Reflection)
-5. [Outcome](#Outcome)
-6. [Conclusion](#Conclusion)
-7. [Bibliography](#Bibliography) 
+1. [Artefact](#artefact)
+    1. [Metadata](#metadata)
+2. [Research](#research)
+    1. [KMAN Origins](#kman-origins)
+    2. [The Newspaper](#the-newspaper)
+    3. [The Amicales Menace](#the-amicales-menace)
+3. [Transcoding](#transcoding)
+    1. [Transcoding No. 1](#transcoding-no-1)
+    2. [Transcoding No. 2](#transcoding-no-2)
+4. [Reflection](#reflection)
+5. [Outcome](#outcome)
+6. [Conclusion](#conclusion)
+7. [Bibliography](#bibliography) 
 
 ## Artefact
 A briefcase is a narrow hard-sided box-shaped bag or case used mainly for carrying papers and equipped with a handle. Lawyers commonly use briefcases to carry briefs to present to a court, hence the name. Businesspeople and other white collar professionals also use briefcases to carry papers, and since the 1980s, electronic devices such as laptop computers and tablet computers. Some briefcases have only a main internal space, while others may have subsections, accordion sections, small pockets, or dividers. 
@@ -95,6 +95,7 @@ For this, i assembled different mediums and recorded them many times on differen
 
 #### Results
   Audio:
+  
  [<img src="https://github.com/DrkManix/KMAN-Archive/blob/master/img_archive/Artefact_03.jpg" width="20%">](https://soundcloud.com/scratchinmenace/soundscape-file-consultation)
 
 ### Transcoding No. 2
@@ -121,6 +122,7 @@ From there I edit those content into the narrative to give context to them and d
 #### Results
  
  Audio Playlist:
+ 
  [<img src="https://github.com/DrkManix/KMAN-Archive/blob/master/img_archive/Artefact_03.jpg" width="20%">](https://soundcloud.com/scratchinmenace/sets/kman)
 
 ## Reflection
