@@ -84,17 +84,18 @@ Leather is used to make a variety of articles, including footwear, automobile se
 
 Many forms of artificial leather have been developed, usually involving polyurethane or vinyl coatings applied to a cloth backing.
 
-1. [<img src="https://j.gifs.com/4QyLX7.gif" width="50%">](https://www.youtube.com/watch?v=oogQU8Ey7oI)
-2. [<img src="https://gifs.com/gif/asmr-no-talking-just-leather-gloves-r8l9A2" width="50%">](https://www.youtube.com/watch?v=ISWVizLuz4Y) 
+1. <img src="https://j.gifs.com/4QyLX7.gif" width="50%">(https://www.youtube.com/watch?v=oogQU8Ey7oI)
+2. <img src="https://gifs.com/gif/asmr-no-talking-just-leather-gloves-r8l9A2" width="50%">(https://www.youtube.com/watch?v=ISWVizLuz4Y) 
 
 ### Methods
 For this, i assembled different mediums and recorded them many times on differents settings, such as they can be assembled to give the feeling of a spaciality and not just a sound effect.
 
-<"insert documentation here">
+<img src="https://j.gifs.com/P7Vqp4.gif" width="50%">(https://youtu.be/PGQyBnoiKJo)
 
 
 ### Results
-  
+  Audio:
+ [<img src="https://github.com/DrkManix/KMAN-Archive/blob/master/img_archive/Artefact_03.jpg" width="20%">](https://soundcloud.com/scratchinmenace/soundscape-file-consultation)
 
 ## Transcoding No. 2
 | Transcoding | 2 |  
@@ -111,12 +112,16 @@ In Mande society, the jeli was an historian, advisor, arbitrator, praise singer 
 For this, i organized the content i gathered from the archives by date and type of medium. Most documents are either written in arabic, dutch or french, so i translate extracts of the french and dutch documents to english for accessibility.
 From there I edit those content into the narrative to give context to them and deepness to the statement.
 
-<"insert documentation here">
+<img src="https://github.com/DrkManix/KMAN-Archive/blob/master/process/ScreenShot01.png" width="100%">
+<img src="https://github.com/DrkManix/KMAN-Archive/blob/master/process/ScreenShot02.png" width="100%">
+<img src="https://github.com/DrkManix/KMAN-Archive/blob/master/process/ScreenShot03.png" width="100%">
+<img src="https://github.com/DrkManix/KMAN-Archive/blob/master/process/ScreenShot04.png" width="100%">
 
 
 ### Results
  
- 
+ Audio Playlist:
+ [<img src="https://github.com/DrkManix/KMAN-Archive/blob/master/img_archive/Artefact_03.jpg" width="20%">](https://soundcloud.com/scratchinmenace/sets/kman)
 
 # Reflection
 How do a social movement gets killed/silenced/assimilated by institutions ?
