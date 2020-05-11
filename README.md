@@ -73,6 +73,8 @@ The resilience of this archive relies on the diversity of transcription, from im
 By creating a narrative, linking the different elements of this archive represented by the briefcase, the goal is to explain the context and the signification of it and its value, either as a document carrier or a reproduction fac-similé, and to keep its primary function but also giving it a new symbolic one as an archive in itself.
 
 ### Transcoding No. 1
+<details><summary>CLICK ME</summary>
+    
 | Transcoding | 1 |  
 |--|--|
 **Purpose** | Recreate a feeling of the original material through sound for non physical consultation of the items
@@ -100,8 +102,11 @@ For this, i assembled different mediums and recorded them many times on differen
   Audio:
   
  [<img src="https://github.com/DrkManix/KMAN-Archive/blob/master/img_archive/Artefact_03.jpg" width="20%">](https://soundcloud.com/scratchinmenace/soundscape-file-consultation)
-
+ </details>
+    
 ### Transcoding No. 2
+<details><summary>CLICK ME</summary>
+
 | Transcoding | 2 |  
 |--|--|
 **Purpose** | Create a narrative linking different documents of the archive as a story
@@ -127,7 +132,8 @@ From there I edit those content into the narrative to give context to them and d
  Audio Playlist:
  
  [<img src="https://github.com/DrkManix/KMAN-Archive/blob/master/img_archive/Artefact_03.jpg" width="20%">](https://soundcloud.com/scratchinmenace/sets/kman)
-
+</details>
+    
 ## Reflection
 How do a social movement gets killed/silenced/assimilated by institutions ?
 Exemple of the KMAN 
