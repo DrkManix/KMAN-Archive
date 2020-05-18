@@ -36,9 +36,10 @@ Traditionally, the CDT was allied with the [Socialist Union of Popular Forces](
 KMAN History
     
 ### KMAN Origins
-[<img src="https://raw.githubusercontent.com/DrkManix/KMAN-Archive/master/img_archive/KMAN-publication_001.jpg" width="25%">]
-<img src="https://raw.githubusercontent.com/DrkManix/KMAN-Archive/master/img_archive/Marrokanse_Vrouw_009.jpg" width="25%">
-<img src="https://raw.githubusercontent.com/DrkManix/KMAN-Archive/master/img_archive/KMAN-letter_01.jpg" width="25%">
+
+|       ![The Morocan worker newspaper](https://raw.githubusercontent.com/DrkManix/KMAN-Archive/master/img_archive/KMAN-publication_001.jpg)       | ![The Morocan worker newspaper](https://raw.githubusercontent.com/DrkManix/KMAN-Archive/master/img_archive/Marrokanse_Vrouw_009.jpg)|
+| :--------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------: |
+| ![](https://raw.githubusercontent.com/DrkManix/KMAN-Archive/master/img_archive/KMAN-letter_01.jpg) |  ![]()  |
 
 The Committee for Moroccan Workers in the Netherlands was established on 13 September 1975 at an action meeting of Moroccans in a squatted warehouse on Bloemgracht in the Jordaan, a warehouse in which many action groups, including the Palestinian Committee, Amnesty International and BAK-: Jordaan, had elected their domicile at the time.
 Prior to the meeting, a demonstration had been organized by a joint venture of the Moroccan Illegal Committee, the Dutch-Turkish Workers' Association Amsterdam (HTIB), the Surinamese LOSON and the Foreign Workers Collective. The demonstration focused "against the Regularization Measure and against the discriminatory action of the Aliens Police in Amsterdam."
@@ -56,11 +57,10 @@ Quite soon after the establishment of the KMAN, the first KMAN newspaper appeare
 The print run was always quite large, 5,000 to 7,000 copies. One half of the newspaper was in Dutch, the other in Arabic. The content of both parts was not the same, sometimes they were separate articles, sometimes translations or adapted versions. Costs of the newspaper were covered from the sale and from subsidies from the NOVIB. Distribution took place in-house through sales at activities, in the building, through friendly organizations, kiosks and the like. Theme numbers were sent to special organizations and were sometimes taken by them in large numbers. For example, 1500 copies of a themed issue on education were purchased by the ABOP. Up to and including 1988 29 editions of the "Moroccan Worker" were published. In 1990 the KMAN again published a more modest edition: the KMAN bulletin. Local departments often made their own newsletters. In 1995 the first two issues of a new edition of the KMAN entitled MigrantBurger were published <sup>[[1]](#footnote-1)</sup>
 
 ### The Amicales Menace
-[<img src="https://raw.githubusercontent.com/DrkManix/KMAN-Archive/master/img_archive/KMAN-publication_003.jpg" width="40%">]
-[<img src="https://raw.githubusercontent.com/DrkManix/KMAN-Archive/master/img_archive/Newscuts.jpg" width="40%">]
-[<img src="https://raw.githubusercontent.com/DrkManix/KMAN-Archive/master/img_archive/KMAN-publication_004.jpg" width="30%">]
-[<img src="https://raw.githubusercontent.com/DrkManix/KMAN-Archive/master/img_archive/Newscuts_83.jpg" width="30%">]
-[<img src="https://raw.githubusercontent.com/DrkManix/KMAN-Archive/master/img_archive/Telegram_87.jpg" width="30%">]
+
+|       ![The Morocan worker newspaper](https://raw.githubusercontent.com/DrkManix/KMAN-Archive/master/img_archive/KMAN-publication_003.jpg)       | ![The Morocan worker newspaper](https://raw.githubusercontent.com/DrkManix/KMAN-Archive/master/img_archive/Newscuts.jpg)|
+| :--------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------: |
+| ![](https://raw.githubusercontent.com/DrkManix/KMAN-Archive/master/img_archive/KMAN-publication_004) |  ![](https://raw.githubusercontent.com/DrkManix/KMAN-Archive/master/img_archive/Newscuts_83.jpg)  |
 
 The Amicales were known for taking active and often violent action against "harmful influences". The Amicales were also active in reporting Moroccans in the Netherlands who were involved in demonstrations, the KMAN, or other elements that were seen as undesirable. On 23 April 1983, for example, the consul received a letter from the Amicales. The Amicales had opened a new office a few days earlier. Neighborhood organizations and the KMAN were present at this opening to demonstrate. The Amicales then found out eight names of Moroccan protesters and mentioned them in the letter.
 People who went against the hairs of the Amicales and the Moroccan government were subsequently made life miserable. A good example of this is Abdou Menebhi, who has had to wait for years for his passport application to be fulfilled. The application was made in 1979. In 1982 even the consul in the Netherlands asked to grant the application. Only in 1994 did he actually get the passport.
@@ -68,7 +68,6 @@ Physical repression was also not shunned. For example, fighters appeared during 
 There was also a raid in 1981 during a hunger strike in the Moses and Aaron Church in Amsterdam.
 Finally, the return to Morocco for KMAN members and people who worked with the KMAN was also very difficult. In 1978 one of the 182 hunger strikers was arrested and detained for several weeks.
 Later in 1984, Amine el Mouaden, KMAN and ABOP member, was arrested, detained and tortured for several weeks. These names were most likely passed on by the Amicales.
-</details>
 
 ## Transcoding
 Using sound and 3D modelling to create a digital fac-similé, (maybe in Unity) that can be opened and display transcoded content from the archive edited into a narrative that follows the question: How does a social movement dies?
@@ -76,7 +75,6 @@ The resilience of this archive relies on the diversity of transcription, from im
 By creating a narrative, linking the different elements of this archive represented by the briefcase, the goal is to explain the context and the signification of it and its value, either as a document carrier or a reproduction fac-similé, and to keep its primary function but also giving it a new symbolic one as an archive in itself.
 
 ### Transcoding No. 1
-<details><summary>CLICK ME</summary>
     
 | Transcoding | 1 |  
 |--|--|
@@ -94,6 +92,11 @@ Many forms of artificial leather have been developed, usually involving polyuret
 
 1. [<img src="https://raw.githubusercontent.com/DrkManix/KMAN-Archive/master/process/leatheryoutube1.gif" width="50%">](https://www.youtube.com/watch?v=oogQU8Ey7oI)
 2. [<img src="https://raw.githubusercontent.com/DrkManix/KMAN-Archive/master/process/leatheryoutube2.gif" width="50%">](https://www.youtube.com/watch?v=ISWVizLuz4Y) 
+
+
+|       ![<img src="https://raw.githubusercontent.com/DrkManix/KMAN-Archive/master/process/leatheryoutube1.gif">](https://www.youtube.com/watch?v=oogQU8Ey7oI)       | ![<img src="https://raw.githubusercontent.com/DrkManix/KMAN-Archive/master/process/leatheryoutube2.gif">](https://www.youtube.com/watch?v=ISWVizLuz4Y)|
+| :--------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------: |
+| ![]() |  ![]()  |
 
 #### Methods
 For this, i assembled different mediums and recorded them many times on differents settings, such as they can be assembled to give the feeling of a spaciality and not just a sound effect.
