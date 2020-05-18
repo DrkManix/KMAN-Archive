@@ -106,12 +106,9 @@ For this, i assembled different mediums and recorded them many times on differen
 
 #### Results
   Audio:
-  
- [<img src="https://raw.githubusercontent.com/DrkManix/KMAN-Archive/master/img_archive/Artefact_03.jpg" width="20%">](https://soundcloud.com/scratchinmenace/soundscape-file-consultation)
- </details>
+  [The Audio files can be found here](https://soundcloud.com/scratchinmenace/soundscape-file-consultation)
     
 ### Transcoding No. 2
-<details><summary>CLICK ME</summary>
 
 | Transcoding | 2 |  
 |--|--|
@@ -127,18 +124,15 @@ In Mande society, the jeli was an historian, advisor, arbitrator, praise singer 
 For this, i organized the content i gathered from the archives by date and type of medium. Most documents are either written in arabic, dutch or french, so i translate extracts of the french and dutch documents to english for accessibility.
 From there I edit those content into the narrative to give context to them and deepness to the statement.
 
-<img src="https://raw.githubusercontent.com/DrkManix/KMAN-Archive/master/process/ScreenShot01.png" width="100%">
-<img src="https://raw.githubusercontent.com/DrkManix/KMAN-Archive/master/process/ScreenShot02.png" width="100%">
-<img src="https://raw.githubusercontent.com/DrkManix/KMAN-Archive/master/process/ScreenShot03.png" width="100%">
-<img src="https://raw.githubusercontent.com/DrkManix/KMAN-Archive/master/process/ScreenShot04.png" width="100%">
-
+|       ![](https://raw.githubusercontent.com/DrkManix/KMAN-Archive/master/process/ScreenShot01.png)       | ![](https://raw.githubusercontent.com/DrkManix/KMAN-Archive/master/process/ScreenShot02.png)|
+| :--------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------: |
+| ![](https://raw.githubusercontent.com/DrkManix/KMAN-Archive/master/process/ScreenShot03.png) |  ![](https://raw.githubusercontent.com/DrkManix/KMAN-Archive/master/process/ScreenShot04.png)  |
 
 #### Results
  
  Audio Playlist:
- 
- [<img src="https://raw.githubusercontent.com/DrkManix/KMAN-Archive/master/img_archive/Artefact_03.jpg" width="20%">](https://soundcloud.com/scratchinmenace/sets/kman)
-</details>
+  [The Audio files can be found here](https://soundcloud.com/scratchinmenace/sets/kman)
+
     
 ## Reflection
 How do a social movement gets killed/silenced/assimilated by institutions ?
@@ -155,8 +149,10 @@ Others have added establishment with mainstream as another
 way in which they decline
 
 ## Outcomes
+The outcome is a webpage where the visual materials relate to the audio track, edited in a order and a way to construct a narrative from these pieces.
 
 ### Outcome Links   
+[website link](https://www.darkmanix.com/KMAN-Archive/)
 
 ## Conclusion 
 You might have a nice conclusive observation to share at the end :) 
