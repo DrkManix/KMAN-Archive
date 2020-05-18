@@ -33,7 +33,7 @@ Traditionally, the CDT was allied with the [Socialist Union of Popular Forces](
 |![Green leather briefcase with golden embroidery](https://raw.githubusercontent.com/DrkManix/KMAN-Archive/master/img_archive/Artefact_01.jpg)| Green leather briefcase with golden embroidery This is literally a description of what you see in the image, make sure its a clear, complete and concise overview of the artefact. It should make sense for someone who doesn't see the image itself.  Our final *Catalogue of Resilience* might make use of one representative image from each student, so important to put your moneyshot here. You can build a gallery of additional artefact images below. 
 
 ## Research
-<details><summary>KMAN History</summary>
+KMAN History
     
 ### KMAN Origins
 [<img src="https://raw.githubusercontent.com/DrkManix/KMAN-Archive/master/img_archive/KMAN-publication_001.jpg" width="25%">]
@@ -49,8 +49,7 @@ The KMAN was a national organization, but also had local departments and divisio
 
 
 |       ![The Morocan worker newspaper](https://raw.githubusercontent.com/DrkManix/KMAN-Archive/master/img_archive/KMAN-Newspaper1_002.jpg)       | ![The Morocan worker newspaper](https://raw.githubusercontent.com/DrkManix/KMAN-Archive/master/img_archive/KMAN-Newsbrief_001.jpg) |
-| :--------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------: |
-| ![Illustration of Der Eigene](https://raw.githubusercontent.com/paprika-mika/der-eigene/master/media/illustration.gif) |  ![Typography of Der Eigene](https://raw.githubusercontent.com/paprika-mika/der-eigene/master/media/typography.gif)  |
+
 
 Quite soon after the establishment of the KMAN, the first KMAN newspaper appeared, called The Moroccan Worker. The intention was to provide a two-monthly publication. It turned out to be difficult to realize this over and over again. The KMAN newspaper did not appear in 1982. Since the beginning of 1983, an edition of the newspaper appeared again irregularly.
 The print run was always quite large, 5,000 to 7,000 copies. One half of the newspaper was in Dutch, the other in Arabic. The content of both parts was not the same, sometimes they were separate articles, sometimes translations or adapted versions. Costs of the newspaper were covered from the sale and from subsidies from the NOVIB. Distribution took place in-house through sales at activities, in the building, through friendly organizations, kiosks and the like. Theme numbers were sent to special organizations and were sometimes taken by them in large numbers. For example, 1500 copies of a themed issue on education were purchased by the ABOP. Up to and including 1988 29 editions of the "Moroccan Worker" were published. In 1990 the KMAN again published a more modest edition: the KMAN bulletin. Local departments often made their own newsletters. In 1995 the first two issues of a new edition of the KMAN entitled MigrantBurger were published <sup>[[1]](#footnote-1)</sup>
