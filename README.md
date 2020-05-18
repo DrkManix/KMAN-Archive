@@ -46,8 +46,10 @@ Around 600 workers visited the Aliens Police, the Social Services, the Employmen
 The KMAN was a national organization, but also had local departments and divisions, such as the KMAR in Rotterdam and the AMMU in Utrecht.
 
 ### The Newspaper
-[<img src="https://raw.githubusercontent.com/DrkManix/KMAN-Archive/master/img_archive/KMAN-Newspaper1_002.jpg" width="40%">]
-<img src="https://raw.githubusercontent.com/DrkManix/KMAN-Archive/master/img_archive/KMAN-Newsbrief_001.jpg" width="40%">
+
+|       ![](https://raw.githubusercontent.com/DrkManix/KMAN-Archive/master/img_archive/KMAN-Newspaper1_002.jpg)       | 
+| :--------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------: |
+| ![](https://raw.githubusercontent.com/DrkManix/KMAN-Archive/master/img_archive/KMAN-Newsbrief_001.jpg) |  
 
 Quite soon after the establishment of the KMAN, the first KMAN newspaper appeared, called The Moroccan Worker. The intention was to provide a two-monthly publication. It turned out to be difficult to realize this over and over again. The KMAN newspaper did not appear in 1982. Since the beginning of 1983, an edition of the newspaper appeared again irregularly.
 The print run was always quite large, 5,000 to 7,000 copies. One half of the newspaper was in Dutch, the other in Arabic. The content of both parts was not the same, sometimes they were separate articles, sometimes translations or adapted versions. Costs of the newspaper were covered from the sale and from subsidies from the NOVIB. Distribution took place in-house through sales at activities, in the building, through friendly organizations, kiosks and the like. Theme numbers were sent to special organizations and were sometimes taken by them in large numbers. For example, 1500 copies of a themed issue on education were purchased by the ABOP. Up to and including 1988 29 editions of the "Moroccan Worker" were published. In 1990 the KMAN again published a more modest edition: the KMAN bulletin. Local departments often made their own newsletters. In 1995 the first two issues of a new edition of the KMAN entitled MigrantBurger were published <sup>[[1]](#footnote-1)</sup>
