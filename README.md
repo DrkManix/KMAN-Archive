@@ -17,9 +17,10 @@
 7. [Bibliography](#bibliography) 
 
 ## Artefact
-A briefcase is a narrow hard-sided box-shaped bag or case used mainly for carrying papers and equipped with a handle. Lawyers commonly use briefcases to carry briefs to present to a court, hence the name. Businesspeople and other white collar professionals also use briefcases to carry papers, and since the 1980s, electronic devices such as laptop computers and tablet computers. Some briefcases have only a main internal space, while others may have subsections, accordion sections, small pockets, or dividers. 
+A briefcase is a narrow hard-sided box-shaped bag or case used mainly for carrying papers and equipped with a handle. 
 This is a briefcase from The **Democratic Confederation of Labour** (CDT). It is a [national trade union center](https://en.wikipedia.org/wiki/National_trade_union_center) in [Morocco](https://en.wikipedia.org/wiki/Morocco). It was established in 1978.
 Traditionally, the CDT was allied with the [Socialist Union of Popular Forces](https://en.wikipedia.org/wiki/Socialist_Union_of_Popular_Forces) (USFP), but in 2002 the union broke its ties and subsequently, secretary general [Noubir El Amaoui](https://en.wikipedia.org/w/index.php?title=Noubir_El_Amaoui&action=edit&redlink=1) created his own political party.
+This artefact was donated by the KMAN.
 
 ### Metadata
 | Tag | Data |  
@@ -30,7 +31,8 @@ Traditionally, the CDT was allied with the [Socialist Union of Popular Forces](
 | **Medium** | Briefcase
 | **Materials** | Leather, Fabric
 | **Date** | 1997
-|![Green leather briefcase with golden embroidery](https://raw.githubusercontent.com/DrkManix/KMAN-Archive/master/img_archive/Artefact_01.jpg)| Green leather briefcase with golden embroidery This is literally a description of what you see in the image, make sure its a clear, complete and concise overview of the artefact. It should make sense for someone who doesn't see the image itself.  Our final *Catalogue of Resilience* might make use of one representative image from each student, so important to put your moneyshot here. You can build a gallery of additional artefact images below. 
+|![Green leather briefcase with golden embroidery](https://raw.githubusercontent.com/DrkManix/KMAN-Archive/master/img_archive/Artefact_01.jpg)| Green leather briefcase with golden embroidery. A leather belt serves as a lock to keep the briefcase close. Embroided on the cover, centered, is written "Democratic Confederation of Work" in arabic then under in french. Closer to the middle of the page, the logo of the CDT. Under is written "3rd National Congress" in arabic then in French. Under this, is written "Casa 14-15-16 March 1997" in arabic and then in french.
+The inside of the pockets is a blue fabric with fine embroidery. 
 
 ## Research
 KMAN History
