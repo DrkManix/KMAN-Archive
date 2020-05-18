@@ -134,16 +134,8 @@ From there I edit those content into the narrative to give context to them and d
 ## Reflection
 How do a social movement gets killed/silenced/assimilated by institutions ?
 Exemple of the KMAN 
- Some explanations highlight internal factors like factionalization, whereas others stress external factors like repressive strategies to identify, constrain, and destroy
- y, the last stage in the social movement life cycle is decline,
-or “institutionalization.” Decline does not necessarily mean failure for social movements though. Instead, Miller (1999) argues,
-there are four ways in which social movements can decline:
-• Repression,
-• Co-optation,
-• Success, and/or
-• Failure,
-Others have added establishment with mainstream as another
-way in which they decline
+As KMAN grew, and partly due to its open structure in which everybody was encouraged to take part in the decision making process, the organization began to be controlled by different factions that were operating within the organization for the benefit of outside organizations. As the factionalism grew worse and repression continued, groups became increasingly insular, leading to encapsulation. This is the process wherein a cadre of activists become isolated from the broader movement because they come to share many of the same habits and culture and their ideology becomes more similar to one another’s and at the same time more rigid. They become so dedicated to the movement that they fail to sympathize with those who do not make the movement the dominant aspect of their life. Likewise, potential recruits find it hard to penetrate the close knit group
+Another thing is that the organization becomes established with the mainstream. That is, their goals or ideologies are adopted by the mainstream and there is no longer any need for a movement. Collective bargaining rights are guaranteed by the  government (in most cases) and the movement is now well established within the political system.
 
 ## Outcomes
 The outcome is a webpage where the visual materials relate to the audio track, edited in a order and a way to construct a narrative from these pieces.
