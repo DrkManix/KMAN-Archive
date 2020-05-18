@@ -41,7 +41,7 @@ KMAN History
 
 |       ![The Morocan worker newspaper](https://raw.githubusercontent.com/DrkManix/KMAN-Archive/master/img_archive/KMAN-publication_001.jpg)       | ![The Morocan worker newspaper](https://raw.githubusercontent.com/DrkManix/KMAN-Archive/master/img_archive/Marrokanse_Vrouw_009.jpg)|
 | :--------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------: |
-| ![](https://raw.githubusercontent.com/DrkManix/KMAN-Archive/master/img_archive/KMAN-letter_01.jpg) |  ![]()  |
+| ![](https://raw.githubusercontent.com/DrkManix/KMAN-Archive/master/img_archive/KMAN-letter_01.jpg) |  ![](https://raw.githubusercontent.com/DrkManix/KMAN-Archive/master/img_archive/file_12.jpg)  |
 
 The Committee for Moroccan Workers in the Netherlands was established on 13 September 1975 at an action meeting of Moroccans in a squatted warehouse on Bloemgracht in the Jordaan, a warehouse in which many action groups, including the Palestinian Committee, Amnesty International and BAK-: Jordaan, had elected their domicile at the time.
 Prior to the meeting, a demonstration had been organized by a joint venture of the Moroccan Illegal Committee, the Dutch-Turkish Workers' Association Amsterdam (HTIB), the Surinamese LOSON and the Foreign Workers Collective. The demonstration focused "against the Regularization Measure and against the discriminatory action of the Aliens Police in Amsterdam."
@@ -53,7 +53,7 @@ The KMAN was a national organization, but also had local departments and divisio
 
 |       ![The Morocan worker newspaper](https://raw.githubusercontent.com/DrkManix/KMAN-Archive/master/img_archive/KMAN-Newspaper1_002.jpg)       | ![The Morocan worker newspaper](https://raw.githubusercontent.com/DrkManix/KMAN-Archive/master/img_archive/KMAN-Newsbrief_001.jpg)|
 | :--------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------: |
-| ![]() |  ![]()  |
+|  |   |
 
 Quite soon after the establishment of the KMAN, the first KMAN newspaper appeared, called The Moroccan Worker. The intention was to provide a two-monthly publication. It turned out to be difficult to realize this over and over again. The KMAN newspaper did not appear in 1982. Since the beginning of 1983, an edition of the newspaper appeared again irregularly.
 The print run was always quite large, 5,000 to 7,000 copies. One half of the newspaper was in Dutch, the other in Arabic. The content of both parts was not the same, sometimes they were separate articles, sometimes translations or adapted versions. Costs of the newspaper were covered from the sale and from subsidies from the NOVIB. Distribution took place in-house through sales at activities, in the building, through friendly organizations, kiosks and the like. Theme numbers were sent to special organizations and were sometimes taken by them in large numbers. For example, 1500 copies of a themed issue on education were purchased by the ABOP. Up to and including 1988 29 editions of the "Moroccan Worker" were published. In 1990 the KMAN again published a more modest edition: the KMAN bulletin. Local departments often made their own newsletters. In 1995 the first two issues of a new edition of the KMAN entitled MigrantBurger were published <sup>[[1]](#footnote-1)</sup>
@@ -94,11 +94,6 @@ Many forms of artificial leather have been developed, usually involving polyuret
 
 1. [<img src="https://raw.githubusercontent.com/DrkManix/KMAN-Archive/master/process/leatheryoutube1.gif" width="50%">](https://www.youtube.com/watch?v=oogQU8Ey7oI)
 2. [<img src="https://raw.githubusercontent.com/DrkManix/KMAN-Archive/master/process/leatheryoutube2.gif" width="50%">](https://www.youtube.com/watch?v=ISWVizLuz4Y) 
-
-
-|       ![<img src="https://raw.githubusercontent.com/DrkManix/KMAN-Archive/master/process/leatheryoutube1.gif">](https://www.youtube.com/watch?v=oogQU8Ey7oI)       | ![<img src="https://raw.githubusercontent.com/DrkManix/KMAN-Archive/master/process/leatheryoutube2.gif">](https://www.youtube.com/watch?v=ISWVizLuz4Y)|
-| :--------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------: |
-| ![]() |  ![]()  |
 
 #### Methods
 For this, i assembled different mediums and recorded them many times on differents settings, such as they can be assembled to give the feeling of a spaciality and not just a sound effect.
