@@ -1,4 +1,4 @@
-[<img src="/img_archive/Newscuts_87.jpg" width="100%">](#)
+[<img src="/process/cover-1.jpg" width="100%">](#)
 # KMAN
 
 ### Table of Contents
@@ -33,6 +33,8 @@ Traditionally, the CDT was allied with the [Socialist Union of Popular Forces](
 |![Green leather briefcase with golden embroidery](https://github.com/DrkManix/KMAN-Archive/blob/master/img_archive/Artefact_01.jpg)| Green leather briefcase with golden embroidery This is literally a description of what you see in the image, make sure its a clear, complete and concise overview of the artefact. It should make sense for someone who doesn't see the image itself.  Our final *Catalogue of Resilience* might make use of one representative image from each student, so important to put your moneyshot here. You can build a gallery of additional artefact images below. 
 
 ## Research
+<details><summary>KMAN History</summary>
+    
 ### KMAN Origins
 [<img src="https://github.com/DrkManix/KMAN-Archive/blob/master/img_archive/KMAN-publication_001.jpg" width="25%">]
 <img src="https://github.com/DrkManix/KMAN-Archive/blob/master/img_archive/Marrokanse_Vrouw_009.jpg" width="25%">
@@ -63,6 +65,7 @@ Physical repression was also not shunned. For example, fighters appeared during 
 There was also a raid in 1981 during a hunger strike in the Moses and Aaron Church in Amsterdam.
 Finally, the return to Morocco for KMAN members and people who worked with the KMAN was also very difficult. In 1978 one of the 182 hunger strikers was arrested and detained for several weeks.
 Later in 1984, Amine el Mouaden, KMAN and ABOP member, was arrested, detained and tortured for several weeks. These names were most likely passed on by the Amicales.
+</details>
 
 ## Transcoding
 Using sound and 3D modelling to create a digital fac-similé, (maybe in Unity) that can be opened and display transcoded content from the archive edited into a narrative that follows the question: How does a social movement dies?
@@ -70,6 +73,8 @@ The resilience of this archive relies on the diversity of transcription, from im
 By creating a narrative, linking the different elements of this archive represented by the briefcase, the goal is to explain the context and the signification of it and its value, either as a document carrier or a reproduction fac-similé, and to keep its primary function but also giving it a new symbolic one as an archive in itself.
 
 ### Transcoding No. 1
+<details><summary>CLICK ME</summary>
+    
 | Transcoding | 1 |  
 |--|--|
 **Purpose** | Recreate a feeling of the original material through sound for non physical consultation of the items
@@ -84,21 +89,24 @@ Leather is used to make a variety of articles, including footwear, automobile se
 
 Many forms of artificial leather have been developed, usually involving polyurethane or vinyl coatings applied to a cloth backing.
 
-1. <img src="https://github.com/DrkManix/KMAN-Archive/blob/master/process/leatheryoutube1.gif" width="50%">(https://www.youtube.com/watch?v=oogQU8Ey7oI)
-2. <img src="https://github.com/DrkManix/KMAN-Archive/blob/master/process/leatheryoutube2.gif" width="50%">(https://www.youtube.com/watch?v=ISWVizLuz4Y) 
+1. [<img src="https://github.com/DrkManix/KMAN-Archive/blob/master/process/leatheryoutube1.gif" width="50%">](https://www.youtube.com/watch?v=oogQU8Ey7oI)
+2. [<img src="https://github.com/DrkManix/KMAN-Archive/blob/master/process/leatheryoutube2.gif" width="50%">](https://www.youtube.com/watch?v=ISWVizLuz4Y) 
 
 #### Methods
 For this, i assembled different mediums and recorded them many times on differents settings, such as they can be assembled to give the feeling of a spaciality and not just a sound effect.
 
-<img src="https://github.com/DrkManix/KMAN-Archive/blob/master/process/giftranscoding.gif" width="50%">(https://youtu.be/PGQyBnoiKJo)
+[<img src="https://github.com/DrkManix/KMAN-Archive/blob/master/process/giftranscoding.gif" width="50%">](https://youtu.be/PGQyBnoiKJo)
 
 
 #### Results
   Audio:
   
  [<img src="https://github.com/DrkManix/KMAN-Archive/blob/master/img_archive/Artefact_03.jpg" width="20%">](https://soundcloud.com/scratchinmenace/soundscape-file-consultation)
-
+ </details>
+    
 ### Transcoding No. 2
+<details><summary>CLICK ME</summary>
+
 | Transcoding | 2 |  
 |--|--|
 **Purpose** | Create a narrative linking different documents of the archive as a story
@@ -124,7 +132,8 @@ From there I edit those content into the narrative to give context to them and d
  Audio Playlist:
  
  [<img src="https://github.com/DrkManix/KMAN-Archive/blob/master/img_archive/Artefact_03.jpg" width="20%">](https://soundcloud.com/scratchinmenace/sets/kman)
-
+</details>
+    
 ## Reflection
 How do a social movement gets killed/silenced/assimilated by institutions ?
 Exemple of the KMAN 
