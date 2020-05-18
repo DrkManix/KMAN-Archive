@@ -1,4 +1,4 @@
-[<img src="https://raw.githubusercontent.com/DrkManix/KMAN-Archive/master/process/cover-1.jpg" width="100%">](#)
+[<img src="https://raw.githubusercontent.com/DrkManix/KMAN-Archive/master/process/cover-1.jpg">](#)
 # KMAN
 
 ### Table of Contents
