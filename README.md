@@ -20,7 +20,7 @@
 A briefcase is a narrow hard-sided box-shaped bag or case used mainly for carrying papers and equipped with a handle. 
 This is a briefcase from The **Democratic Confederation of Labour** (CDT). It is a [national trade union center](https://en.wikipedia.org/wiki/National_trade_union_center) in [Morocco](https://en.wikipedia.org/wiki/Morocco). It was established in 1978.
 Traditionally, the CDT was allied with the [Socialist Union of Popular Forces](https://en.wikipedia.org/wiki/Socialist_Union_of_Popular_Forces) (USFP), but in 2002 the union broke its ties and subsequently, secretary general [Noubir El Amaoui](https://en.wikipedia.org/w/index.php?title=Noubir_El_Amaoui&action=edit&redlink=1) created his own political party.
-This artefact was donated by the KMAN.
+This artefact was donated by the KMAN.The KMAN was a national organization with the objective of defending the interests of Moroccan workers in the Netherlands.
 
 ### Metadata
 | Tag | Data |  
