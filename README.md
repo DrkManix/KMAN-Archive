@@ -1,4 +1,4 @@
-[<img src="/process/cover-1.jpg" width="100%">](#)
+[<img src="https://raw.githubusercontent.com/DrkManix/KMAN-Archive/blob/master/process/cover-1.jpg" width="100%">](#)
 # KMAN
 
 ### Table of Contents
@@ -30,7 +30,7 @@ Traditionally, the CDT was allied with the [Socialist Union of Popular Forces](
 | **Medium** | Briefcase
 | **Materials** | Leather, Fabric
 | **Date** | 1997
-|![Green leather briefcase with golden embroidery](https://github.com/DrkManix/KMAN-Archive/blob/master/img_archive/Artefact_01.jpg)| Green leather briefcase with golden embroidery This is literally a description of what you see in the image, make sure its a clear, complete and concise overview of the artefact. It should make sense for someone who doesn't see the image itself.  Our final *Catalogue of Resilience* might make use of one representative image from each student, so important to put your moneyshot here. You can build a gallery of additional artefact images below. 
+|![Green leather briefcase with golden embroidery](https://raw.githubusercontent.com/DrkManix/KMAN-Archive/blob/master/img_archive/Artefact_01.jpg)| Green leather briefcase with golden embroidery This is literally a description of what you see in the image, make sure its a clear, complete and concise overview of the artefact. It should make sense for someone who doesn't see the image itself.  Our final *Catalogue of Resilience* might make use of one representative image from each student, so important to put your moneyshot here. You can build a gallery of additional artefact images below. 
 
 ## Research
 <details><summary>KMAN History</summary>
