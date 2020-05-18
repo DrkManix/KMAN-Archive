@@ -148,5 +148,7 @@ You might have a nice conclusive observation to share at the end :)
 
 ## Bibliography
 [Four stages of social movement, Jonathan Christiansen, M.A., 2009 EBSCO Publishing Inc.](https://www.ebscohost.com/uploads/imported/thisTopic-dbTopic-1248.pdf)
+
 [50 years of Moroccan Migration in the Netherlands](https://50jaarmigratie.nl/)
+
 [Basic Syntax | Markdown Guide](https://www.markdownguide.org/basic-syntax)
