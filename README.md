@@ -154,6 +154,8 @@ The outcome is a webpage where the visual materials relate to the audio track, e
 
 ## Bibliography
 
+[International Institute of Social History](http://www.iisg.nl/archives/en/files/k/10889885.php)
+
 [Population by origin and generation, 1 January, The Hague: Centraal Bureau voor de Statistiek, 2009](http://statline.cbs.nl/StatWeb/publication/?DM=SLEN&PA=37325eng&D1=a&D2=a&D3=0&D4=0&D5=2,139&D6=0,4-13&LA=EN&HDR=T,G1&STB=G5,G2,G3,G4&VW=T)
 
 [El Bardaï, Omar (July 2003), "Les Marocains résidant aux Pays-Bas: caractéristiques démographiques et sociales"](https://web.archive.org/web/20060523220016/http://www.alwatan.ma/html/Publication_Fondation/Publication_2006/Publication/Ouvrage.pdf)
