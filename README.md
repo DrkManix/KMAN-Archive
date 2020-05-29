@@ -8,6 +8,7 @@
     1. [KMAN Origins](#kman-origins)
     2. [The Newspaper](#the-newspaper)
     3. [The Amicales Menace](#the-amicales-menace)
+    4. [Death of the movement](#death-of-the-movement)
 3. [Transcoding](#transcoding)
     1. [Transcoding No. 1](#transcoding-no-1)
     2. [Transcoding No. 2](#transcoding-no-2)
@@ -35,7 +36,6 @@ This artefact was donated by the KMAN.The KMAN was a national organization with 
 The inside of the pockets is a blue fabric with fine embroidery. 
 
 ## Research
-KMAN History
     
 ### KMAN Origins
 
@@ -149,7 +149,7 @@ The outcome is a webpage where the visual materials relate to the audio track, e
 
 ![The Morocan worker newspaper](https://raw.githubusercontent.com/DrkManix/KMAN-Archive/master/img/)
 
-### Outcome Links   
+### Outcome Link   
 [website link](https://www.darkmanix.com/KMAN-Archive/) 
 
 ## Bibliography
