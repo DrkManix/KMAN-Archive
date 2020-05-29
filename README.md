@@ -1,5 +1,5 @@
 [<img src="https://raw.githubusercontent.com/DrkManix/KMAN-Archive/master/process/cover-1.jpg">](#)
-# KMAN
+# How does a social movement die? The exemple of KMAN
 
 ### Table of Contents
 1. [Artefact](#artefact)
