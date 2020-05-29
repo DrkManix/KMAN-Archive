@@ -1,5 +1,5 @@
 [<img src="https://raw.githubusercontent.com/DrkManix/KMAN-Archive/master/process/cover-1.jpg">](#)
-# KMAN
+# How does a social movement die? The exemple of KMAN
 
 ### Table of Contents
 1. [Artefact](#artefact)
@@ -31,7 +31,7 @@ This artefact was donated by the KMAN.The KMAN was a national organization with 
 | **Medium** | Briefcase
 | **Materials** | Leather, Fabric
 | **Date** | 1997
-|![Green leather briefcase with golden embroidery](https://raw.githubusercontent.com/DrkManix/KMAN-Archive/master/img_archive/Artefact_01.jpg)| Green leather briefcase with golden embroidery. A leather belt serves as a lock to keep the briefcase close. Embroided on the cover, centered, is written "Democratic Confederation of Work" in arabic then under in french. Closer to the middle of the page, the logo of the CDT. Under is written "3rd National Congress" in arabic then in French. Under this, is written "Casa 14-15-16 March 1997" in arabic and then in french.
+|![Green leather briefcase with golden embroidery](https://raw.githubusercontent.com/DrkManix/KMAN-Archive/master/img/briefcase1.gif)| Green leather briefcase with golden embroidery. A leather belt serves as a lock to keep the briefcase close. Embroided on the cover, centered, is written "Democratic Confederation of Work" in arabic then under in french. Closer to the middle of the page, the logo of the CDT. Under is written "3rd National Congress" in arabic then in French. Under this, is written "Casa 14-15-16 March 1997" in arabic and then in french.
 The inside of the pockets is a blue fabric with fine embroidery. 
 
 ## Research
@@ -39,9 +39,9 @@ KMAN History
     
 ### KMAN Origins
 
-|       ![The Morocan worker newspaper](https://raw.githubusercontent.com/DrkManix/KMAN-Archive/master/img_archive/KMAN-publication_001.jpg)       | ![The Morocan worker newspaper](https://raw.githubusercontent.com/DrkManix/KMAN-Archive/master/img_archive/Marrokanse_Vrouw_009.jpg)|
+|       ![The Morocan worker newspaper](https://raw.githubusercontent.com/DrkManix/KMAN-Archive/master/img/files1982.gif)       | ![The Morocan worker newspaper](https://raw.githubusercontent.com/DrkManix/KMAN-Archive/master/img/morokkanvrouw.gif)|
 | :--------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------: |
-| ![](https://raw.githubusercontent.com/DrkManix/KMAN-Archive/master/img_archive/KMAN-letter_01.jpg) |  ![](https://raw.githubusercontent.com/DrkManix/KMAN-Archive/master/img_archive/file_12.jpg)  |
+| ![](https://raw.githubusercontent.com/DrkManix/KMAN-Archive/master/img/kmanprogram.gif) |  ![](https://raw.githubusercontent.com/DrkManix/KMAN-Archive/master/img/files1982-2.gif)  |
 
 The Committee for Moroccan Workers in the Netherlands was established on 13 September 1975 at an action meeting of Moroccans in a squatted warehouse on Bloemgracht in the Jordaan, a warehouse in which many action groups, including the Palestinian Committee, Amnesty International and BAK-: Jordaan, had elected their domicile at the time.
 Prior to the meeting, a demonstration had been organized by a joint venture of the Moroccan Illegal Committee, the Dutch-Turkish Workers' Association Amsterdam (HTIB), the Surinamese LOSON and the Foreign Workers Collective. The demonstration focused "against the Regularization Measure and against the discriminatory action of the Aliens Police in Amsterdam."
@@ -51,7 +51,7 @@ The KMAN was a national organization, but also had local departments and divisio
 ### The Newspaper
 
 
-|       ![The Morocan worker newspaper](https://raw.githubusercontent.com/DrkManix/KMAN-Archive/master/img_archive/KMAN-Newspaper1_002.jpg)       | ![The Morocan worker newspaper](https://raw.githubusercontent.com/DrkManix/KMAN-Archive/master/img_archive/KMAN-Newsbrief_001.jpg)|
+|       ![The Morocan worker newspaper](https://raw.githubusercontent.com/DrkManix/KMAN-Archive/master/img/newsbrief.gif)       | ![The Morocan worker newspaper](https://raw.githubusercontent.com/DrkManix/KMAN-Archive/master/img/newspaper.gif)|
 | :--------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------: |
 |  |   |
 
@@ -60,9 +60,7 @@ The print run was always quite large, 5,000 to 7,000 copies. One half of the new
 
 ### The Amicales Menace
 
-|       ![The Morocan worker newspaper](https://raw.githubusercontent.com/DrkManix/KMAN-Archive/master/img_archive/KMAN-publication_003.jpg)       | ![The Morocan worker newspaper](https://raw.githubusercontent.com/DrkManix/KMAN-Archive/master/img_archive/Newscuts.jpg)|
-| :--------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------: |
-| ![](https://raw.githubusercontent.com/DrkManix/KMAN-Archive/master/img_archive/KMAN-publication_004) |  ![](https://raw.githubusercontent.com/DrkManix/KMAN-Archive/master/img_archive/Newscuts_83.jpg)  |
+![The Morocan worker newspaper](https://raw.githubusercontent.com/DrkManix/KMAN-Archive/master/img/kmanpublication.gif)
 
 The Amicales were known for taking active and often violent action against "harmful influences". The Amicales were also active in reporting Moroccans in the Netherlands who were involved in demonstrations, the KMAN, or other elements that were seen as undesirable. On 23 April 1983, for example, the consul received a letter from the Amicales. The Amicales had opened a new office a few days earlier. Neighborhood organizations and the KMAN were present at this opening to demonstrate. The Amicales then found out eight names of Moroccan protesters and mentioned them in the letter.
 People who went against the hairs of the Amicales and the Moroccan government were subsequently made life miserable. A good example of this is Abdou Menebhi, who has had to wait for years for his passport application to be fulfilled. The application was made in 1979. In 1982 even the consul in the Netherlands asked to grant the application. Only in 1994 did he actually get the passport.
