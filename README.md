@@ -69,6 +69,15 @@ There was also a raid in 1981 during a hunger strike in the Moses and Aaron Chur
 Finally, the return to Morocco for KMAN members and people who worked with the KMAN was also very difficult. In 1978 one of the 182 hunger strikers was arrested and detained for several weeks.
 Later in 1984, Amine el Mouaden, KMAN and ABOP member, was arrested, detained and tortured for several weeks. These names were most likely passed on by the Amicales.
 
+### Death of the movement
+
+![The Morocan worker newspaper](https://raw.githubusercontent.com/DrkManix/KMAN-Archive/master/img/files1994.gif)
+
+For many traditional self-help organizations, including Moroccan Dutch self-help organizations, these policy changes meant that in the 1990s it became more difficult in many places to receive funding for integration-oriented activities, such as social welfare services delivered through office hours. The job pool scheme and later the WIW scheme made it possible for some of the organizations to continue to provide this type of aid for a while. Because structural forms of subsidy were increasingly being replaced by project-based subsidies, many self-organizations had to focus more and more on activities that local authorities or funds gave priority in order to obtain sufficient funds. Those were not always the activities the supporters needed.
+New organizations that emerged in the late 1990s included the Euro-Mediterranean Center for Migration & Development (Emcemo), which emerged from KMAN after it organized a conference on migration and development in Tangier, Morocco, in 1996. In the early years, Emcemo's activities focused strongly on Euro-Mediterranean cooperation, but over the years the emphasis has shifted to the Netherlands.
+Emcemo, with former KMAN foreman Abdou Menebhi as the driving force, is committed to emancipation and participation, equal participation in the society of all Dutch people and against racism, radicalization, anti-Semitism and homophobia. Emcemo has also paid a lot of attention to Islamophobia for the past ten years and is the founder and driving force of the Collective against Islamophobia and Discrimination (CTID).
+
+
 ## Transcoding
 Using sound and 3D modelling to create a digital fac-similé, (maybe in Unity) that can be opened and display transcoded content from the archive edited into a narrative that follows the question: How does a social movement dies?
 The resilience of this archive relies on the diversity of transcription, from image to sound, from picture to written description or drawing, etc.
@@ -138,11 +147,10 @@ Another thing is that the organization becomes established with the mainstream. 
 ## Outcomes
 The outcome is a webpage where the visual materials relate to the audio track, edited in a order and a way to construct a narrative from these pieces.
 
-### Outcome Links   
-[website link](https://www.darkmanix.com/KMAN-Archive/)
+![The Morocan worker newspaper](https://raw.githubusercontent.com/DrkManix/KMAN-Archive/master/img/)
 
-## Conclusion 
-You might have a nice conclusive observation to share at the end :) 
+### Outcome Links   
+[website link](https://www.darkmanix.com/KMAN-Archive/) 
 
 ## Bibliography
 [Four stages of social movement, Jonathan Christiansen, M.A., 2009 EBSCO Publishing Inc.](https://www.ebscohost.com/uploads/imported/thisTopic-dbTopic-1248.pdf)
