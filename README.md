@@ -39,9 +39,9 @@ The inside of the pockets is a blue fabric with fine embroidery.
     
 ### KMAN Origins
 
-|       ![The Morocan worker newspaper](https://raw.githubusercontent.com/DrkManix/KMAN-Archive/master/img/files1982.gif)       | ![The Morocan worker newspaper](https://raw.githubusercontent.com/DrkManix/KMAN-Archive/master/img/morokkanvrouw.gif)|
+|       ![Files 1982](https://raw.githubusercontent.com/DrkManix/KMAN-Archive/master/img/files1982.gif)       | ![The Morocan woman, publication](https://raw.githubusercontent.com/DrkManix/KMAN-Archive/master/img/morokkanvrouw.gif)|
 | :--------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------: |
-| ![](https://raw.githubusercontent.com/DrkManix/KMAN-Archive/master/img/kmanprogram.gif) |  ![](https://raw.githubusercontent.com/DrkManix/KMAN-Archive/master/img/files1982-2.gif)  |
+| ![KMAN Program](https://raw.githubusercontent.com/DrkManix/KMAN-Archive/master/img/kmanprogram.gif) |  ![Files 1982](https://raw.githubusercontent.com/DrkManix/KMAN-Archive/master/img/files1982-2.gif)  |
 
 The Committee for Moroccan Workers in the Netherlands was established on 13 September 1975 at an action meeting of Moroccans in a squatted warehouse on Bloemgracht in the Jordaan, a warehouse in which many action groups, including the Palestinian Committee, Amnesty International and BAK-: Jordaan, had elected their domicile at the time.
 Prior to the meeting, a demonstration had been organized by a joint venture of the Moroccan Illegal Committee, the Dutch-Turkish Workers' Association Amsterdam (HTIB), the Surinamese LOSON and the Foreign Workers Collective. The demonstration focused "against the Regularization Measure and against the discriminatory action of the Aliens Police in Amsterdam."
@@ -51,7 +51,7 @@ The KMAN was a national organization, but also had local departments and divisio
 ### The Newspaper
 
 
-|       ![The Morocan worker newspaper](https://raw.githubusercontent.com/DrkManix/KMAN-Archive/master/img/newsbrief.gif)       | ![The Morocan worker newspaper](https://raw.githubusercontent.com/DrkManix/KMAN-Archive/master/img/newspaper.gif)|
+|       ![KMAN Newsbrief](https://raw.githubusercontent.com/DrkManix/KMAN-Archive/master/img/newsbrief.gif)       | ![The Morocan worker newspaper](https://raw.githubusercontent.com/DrkManix/KMAN-Archive/master/img/newspaper.gif)|
 | :--------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------: |
 |  |   |
 
@@ -60,7 +60,7 @@ The print run was always quite large, 5,000 to 7,000 copies. One half of the new
 
 ### The Amicales Menace
 
-![The Morocan worker newspaper](https://raw.githubusercontent.com/DrkManix/KMAN-Archive/master/img/kmanpublication.gif)
+![KMAN publication](https://raw.githubusercontent.com/DrkManix/KMAN-Archive/master/img/kmanpublication.gif)
 
 The Amicales were known for taking active and often violent action against "harmful influences". The Amicales were also active in reporting Moroccans in the Netherlands who were involved in demonstrations, the KMAN, or other elements that were seen as undesirable. On 23 April 1983, for example, the consul received a letter from the Amicales. The Amicales had opened a new office a few days earlier. Neighborhood organizations and the KMAN were present at this opening to demonstrate. The Amicales then found out eight names of Moroccan protesters and mentioned them in the letter.
 People who went against the hairs of the Amicales and the Moroccan government were subsequently made life miserable. A good example of this is Abdou Menebhi, who has had to wait for years for his passport application to be fulfilled. The application was made in 1979. In 1982 even the consul in the Netherlands asked to grant the application. Only in 1994 did he actually get the passport.
@@ -71,7 +71,7 @@ Later in 1984, Amine el Mouaden, KMAN and ABOP member, was arrested, detained an
 
 ### Death of the movement
 
-![The Morocan worker newspaper](https://raw.githubusercontent.com/DrkManix/KMAN-Archive/master/img/files1994.gif)
+![Files 1994](https://raw.githubusercontent.com/DrkManix/KMAN-Archive/master/img/files1994.gif)
 
 For many traditional self-help organizations, including Moroccan Dutch self-help organizations, these policy changes meant that in the 1990s it became more difficult in many places to receive funding for integration-oriented activities, such as social welfare services delivered through office hours. The job pool scheme and later the WIW scheme made it possible for some of the organizations to continue to provide this type of aid for a while. Because structural forms of subsidy were increasingly being replaced by project-based subsidies, many self-organizations had to focus more and more on activities that local authorities or funds gave priority in order to obtain sufficient funds. Those were not always the activities the supporters needed.
 New organizations that emerged in the late 1990s included the Euro-Mediterranean Center for Migration & Development (Emcemo), which emerged from KMAN after it organized a conference on migration and development in Tangier, Morocco, in 1996. In the early years, Emcemo's activities focused strongly on Euro-Mediterranean cooperation, but over the years the emphasis has shifted to the Netherlands.
@@ -147,7 +147,7 @@ Another thing is that the organization becomes established with the mainstream. 
 ## Outcomes
 The outcome is a webpage where the visual materials relate to the audio track, edited in a order and a way to construct a narrative from these pieces.
 
-![The Morocan worker newspaper](https://raw.githubusercontent.com/DrkManix/KMAN-Archive/master/img/)
+![Website Screenshot](https://raw.githubusercontent.com/DrkManix/KMAN-Archive/master/img/)
 
 ### Outcome Link   
 [website link](https://www.darkmanix.com/KMAN-Archive/) 
