@@ -12,7 +12,7 @@
     1. [Transcoding No. 1](#transcoding-no-1)
     2. [Transcoding No. 2](#transcoding-no-2)
 4. [Reflection](#reflection)
-5. [Outcome](#outcome)
+5. [Outcomes](#outcomes)
 6. [Conclusion](#conclusion)
 7. [Bibliography](#bibliography) 
 
