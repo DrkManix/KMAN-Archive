@@ -14,8 +14,7 @@
     2. [Transcoding No. 2](#transcoding-no-2)
 4. [Reflection](#reflection)
 5. [Outcomes](#outcomes)
-6. [Conclusion](#conclusion)
-7. [Bibliography](#bibliography) 
+6. [Bibliography](#bibliography) 
 
 ## Artefact
 A briefcase is a narrow hard-sided box-shaped bag or case used mainly for carrying papers and equipped with a handle. 
