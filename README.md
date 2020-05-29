@@ -82,7 +82,7 @@ Emcemo, with former KMAN foreman Abdou Menebhi as the driving force, is committe
 
 
 ## Transcoding
-Using sound and 3D modelling to create a digital fac-similé, (maybe in Unity) that can be opened and display transcoded content from the archive edited into a narrative that follows the question: How does a social movement dies?
+Using sound and visuals to create a digital fac-similé, that can be opened and display transcoded content from the archive edited into a narrative that follows the question: How does a social movement dies?
 The resilience of this archive relies on the diversity of transcription, from image to sound, from picture to written description or drawing, etc.
 By creating a narrative, linking the different elements of this archive represented by the briefcase, the goal is to explain the context and the signification of it and its value, either as a document carrier or a reproduction fac-similé, and to keep its primary function but also giving it a new symbolic one as an archive in itself.
 
@@ -94,13 +94,14 @@ By creating a narrative, linking the different elements of this archive represen
 | **Medium** | Sound
 | **Result** | Ambiant Sounds of leather and paper folding and bending
 #### Description
-How to transcode leather? How do you describe it? Its texture, its feeling, its sound.
 
 Leather is a durable and flexible material created by tanning animal rawhide and skins. The most common raw material is cattle hide. It can be produced at manufacturing scales ranging from artisan to modern industrial scale.
 
 Leather is used to make a variety of articles, including footwear, automobile seats, clothing, bags, book bindings, fashion accessories, and furniture. It is produced in a wide variety of types and styles and decorated by a wide range of techniques. The earliest record of leather artifacts dates back to 2200 BC.
 
 Many forms of artificial leather have been developed, usually involving polyurethane or vinyl coatings applied to a cloth backing.
+
+How to transcode leather? How do you describe it? Its texture, its feeling, its sound.
 
 1. [<img src="https://raw.githubusercontent.com/DrkManix/KMAN-Archive/master/process/leatheryoutube1.gif" width="50%">](https://www.youtube.com/watch?v=oogQU8Ey7oI)
 2. [<img src="https://raw.githubusercontent.com/DrkManix/KMAN-Archive/master/process/leatheryoutube2.gif" width="50%">](https://www.youtube.com/watch?v=ISWVizLuz4Y) 
@@ -123,9 +124,13 @@ For this, i assembled different mediums and recorded them many times on differen
 | **Medium** | Sound/Writing
 | **Result** | Audio Storytelling/Reading track
 #### Description
+
+In Mande society, the jeli was an historian, advisor, arbitrator, praise singer (patronage), and storyteller. They essentially served as history books, preserving ancient stories and traditions through song. Their tradition was passed down through generations. The name jeli means "blood" in Manika language. They were believed to have deep connections to spiritual, social, or political powers. Speech was believed to have power in its capacity to recreate history and relationships.
+
+In the same idea, i want to use speech to recreate the context of this archive.
+
 Translation of extracts of documents to english.
 Recordings of thoses translation as a story.
-In Mande society, the jeli was an historian, advisor, arbitrator, praise singer (patronage), and storyteller. They essentially served as history books, preserving ancient stories and traditions through song. Their tradition was passed down through generations. The name jeli means "blood" in Manika language. They were believed to have deep connections to spiritual, social, or political powers. Speech was believed to have power in its capacity to recreate history and relationships.
 
 #### Methods
 For this, i organized the content i gathered from the archives by date and type of medium. Most documents are either written in arabic, dutch or french, so i translate extracts of the french and dutch documents to english for accessibility.
