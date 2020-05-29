@@ -1,4 +1,4 @@
-[<img src="https://raw.githubusercontent.com/DrkManix/KMAN-Archive/master/process/cover-1.jpg">](#)
+[<img src="https://raw.githubusercontent.com/DrkManix/KMAN-Archive/master/process/cover-2.jpg">](#)
 # How does a social movement die? The exemple of KMAN
 
 ### Table of Contents
@@ -147,7 +147,7 @@ Another thing is that the organization becomes established with the mainstream. 
 ## Outcomes
 The outcome is a webpage where the visual materials relate to the audio track, edited in a order and a way to construct a narrative from these pieces.
 
-![Website Screenshot](https://raw.githubusercontent.com/DrkManix/KMAN-Archive/master/img/)
+![Website Screenshot](https://raw.githubusercontent.com/DrkManix/KMAN-Archive/master/img/webscreenshot.gif)
 
 ### Outcome Link   
 [website link](https://www.darkmanix.com/KMAN-Archive/) 
