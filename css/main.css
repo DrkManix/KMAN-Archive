@@ -15,6 +15,7 @@ html {
   color: #222;
   font-size: 1em;
   line-height: 1.4;
+  background-color: red;
 }
 
 /*
@@ -115,69 +116,59 @@ img{
 p{
   position: absolute;
   color: #d3aa32;
-  margin-top: 7%;
-  margin-left: 5%;
   font-weight: 400;
-  font-size: 1.5em;
+  font-size: 1em;
+  top: 0;
 }
 
 h1{
-  color: #d3aa32;
-  top: 0;
   position: absolute;
-  text-align: center;
-  margin-left: 35%;
-  margin-top: 7%;
+  top: 0;
+  padding-left: 1.5em;
+  padding-top: 1em;
+  color: #d3aa32;
+  font-family: helvetica;
+  z-index: 3000;
+}
+h2{
+  position: fixed;
+  top: 2em;
+  padding-left: 2em;
+  padding-top: 1em;
+  color: #d3aa32;
+  font-family: helvetica;
 }
 
 ul{
+  position: absolute;
+  top: 3em;
+  padding: 2em;
+  list-style: none;
+  text-align: left;
   color: #d3aa32;
-  top: 0;
   font-family: helvetica;
   font-weight: 400;
   font-size: 1.5em;
-  margin-top: 10px;
-  margin-right: 5%;
 }
 
 .section{
-text-align: right;
+  position: relative;
+text-align: center;
+padding-top: 0;
+}
+
+.parent{
+  position: relative;
+}
+
+.bg-image{
+  position: relative;
+  max-width: 100%;
 }
 
 .project-image{
-  display: inline-block;
+  position: absolute;
 }
-
-#section0{
-  background-attachment: fixed;
-  background-size: cover;
-}
-
-#section1{
-  background-size: cover;
-  background-repeat: round;
-}
-#section2{
-  background-size: cover;
-  background-repeat: round;
-}
-#section3{
-  background-size: cover;
-  background-repeat: round;
-}
-#section4{
-  background-size: cover;
-  background-repeat: round;
-}
-#section5{
-  background-size: cover;
-  background-repeat: round;
-}
-#section6{
-  background-size: cover;
-  background-repeat: round;
-}
-
 
 
 /* ==========================================================================

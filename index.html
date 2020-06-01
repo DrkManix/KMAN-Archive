@@ -22,6 +22,11 @@
 
 <div id="fullpage" class="content">
     <div class="section" id="section0">
+
+      <img class="bg-image" src="img/briefcase-cover1.png" alt="">
+      <h1>How does a social movement die?</h1>
+      <h2>The exemple of the KMAN</h2>
+      <p>*Click on one of the chapter to start*</p>
         <ul>
             <li><a href="#" onclick="moveToThis(2)">The Origins of KMAN</a></li>
             <li><a href="#" onclick="moveToThis(3)">The Amicales Menace</a></li>
@@ -30,16 +35,20 @@
             <li><a href="#" onclick="moveToThis(6)">Downfall</a></li>
             <li><a href="#" onclick="moveToThis(7)">Conclusion</a></li>
         </ul>
+
     </div>
 
     <div class="section" id="section1">
         <div class="slide">
-            <p>The Origins of KMAN</p>
-            <audio controls>
+            <h1>The Origins of KMAN</h1>
+            <audio >
                 <source src="audio/01-intro.mp3" type="audio/mpeg">
                 Your browser does not support the audio element.
             </audio>
+          <div class="parent">
+            <img class="bg-image" src="img/briefcase-inside1.png" alt="">
             <img class="project-image" src="img/01.gif" alt="">
+          </div>
 
         </div>
 
@@ -47,56 +56,71 @@
 
     <div class="section" id="section2">
         <div class="slide">
-            <p>The Amicales Menace</p>
-            <audio controls>
+            <h1>The Amicales Menace</h1>
+            <audio>
                 <source src="audio/02-poster-amicales.mp3" type="audio/mpeg">
                 Your browser does not support the audio element.
             </audio>
-            <img class="project-image" src="img/02.gif" alt="">
+            <div class="parent">
+              <img class="bg-image" src="img/briefcase-inside1.png" alt="">
+              <img class="project-image" src="img/02.gif" alt="">
+            </div>
         </div>
     </div>
 
     <div class="section" id="section3">
         <div class="slide">
-            <p>Turmoil and Opression</p>
-            <audio controls>
+            <h1>Turmoil and Opression</h1>
+            <audio>
                 <source src="audio/03-morroco1984.mp3" type="audio/mpeg">
                 Your browser does not support the audio element.
             </audio>
-            <img class="project-image" src="img/04.gif" alt="">
+            <div class="parent">
+              <img class="bg-image" src="img/briefcase-inside1.png" alt="">
+              <img class="project-image" src="img/04.gif" alt="">
+            </div>
         </div>
     </div>
 
     <div class="section" id="section4">
         <div class="slide">
-            <p>Testimony</p>
-            <audio controls>
+            <h1>Testimony</h1>
+            <audio>
                 <source src="audio/04-morrokaanvrouw.mp3" type="audio/mpeg">
                 Your browser does not support the audio element.
             </audio>
-            <img class="project-image" src="img/05.gif" alt="">
+            <div class="parent">
+              <img class="bg-image" src="img/briefcase-inside1.png" alt="">
+              <img class="project-image" src="img/05.gif" alt="">
+            </div>
         </div>
     </div>
 
     <div class="section" id="section5">
         <div class="slide">
-            <p>Downfall</p>
-            <audio controls>
+            <h1>Downfall</h1>
+            <audio>
                 <source src="audio/012-bridge.mp3" type="audio/mpeg">
                 Your browser does not support the audio element.
             </audio>
-            <img class="project-image" src="img/06.gif" alt="">
+            <div class="parent">
+              <img class="bg-image" src="img/briefcase-inside1.png" alt="">
+              <img class="project-image" src="img/06.gif" alt="">
+            </div>
         </div>
     </div>
 
     <div class="section" id="section6">
         <div class="slide">
-            <p>Conclusion</p>
-            <audio controls>
+            <h1>Conclusion</h1>
+            <audio>
                 <source src="audio/015-conclusion.mp3" type="audio/mpeg">
                 Your browser does not support the audio element.
             </audio>
-            <img class="project-image" src="img/03.gif" alt="">
+            <div class="parent">
+              <img class="bg-image" src="img/briefcase-inside1.png" alt="">
+              <img class="project-image" src="img/03.gif" alt="">
+            </div>
         </div>
     </div>
 
@@ -130,7 +154,7 @@
         scrollBar: false,
         easing: 'easeInOutCubic',
         easingcss3: 'ease',
-        loopBottom: false,
+        loopBottom: true,
         loopTop: false,
         loopHorizontal: true,
         continuousVertical: false,
@@ -157,8 +181,8 @@
         controlArrows: true,
         verticalCentered: true,
         sectionsColor : [],
-        paddingTop: '3em',
-        paddingBottom: '10px',
+        paddingTop: '0',
+        paddingBottom: '0',
         fixedElements: '#header, .footer',
         responsiveWidth: 0,
         responsiveHeight: 0,
