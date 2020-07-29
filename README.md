@@ -12,6 +12,7 @@
 3. [Transcoding](#transcoding)
     1. [Transcoding No. 1](#transcoding-no-1)
     2. [Transcoding No. 2](#transcoding-no-2)
+    3. [Transcoding No. 3](#transcoding-no-3)
 4. [Reflection](#reflection)
 5. [Outcomes](#outcomes)
 6. [Bibliography](#bibliography) 
@@ -145,7 +146,30 @@ From there I edit those content into the narrative to give context to them and d
  Audio Playlist:
   [The Audio files can be found here](https://soundcloud.com/scratchinmenace/sets/kman)
 
+### Transcoding No. 3
+
+| Transcoding | 3 |  
+|--|--|
+**Purpose** | Create a narrative linking different documents of the archive as a story
+| **Medium** | Unreal Engine
+| **Result** | Video Game
+#### Description
+    I want to re appropriate the story of the KMAN to convey a more "general" themathic statement, around a storytelling element.
+    For this i decide to develop a video game where the main mechanic is to collect items. The environment will be a bit surrealistic but taking elements of real life.
     
+#### Methods
+    I first wrote a script of a dialogue which would be the main story telling element.
+    
+    Then started some sort of Audio/Video/Interaction script to details the possible interactions, environments and items per sequence of the story.
+    
+    From this I started to write the Interactions flowcharts, to help me later in the coding process. I try to detail every interaction and process in a logic syntax.
+    
+    Then I finally start working on Unreal Engine and get to know the software and the bases of level design in it.
+    
+    Once i got a grasp of this, I started to code the differents systems i will need: An inventory, a Quest Log, and Dialogue system.
+    For the inventory, I need to be able to toggle it, stack items, consult the informations of each items and their quantity, close it. I also start to build a query system for the items in prevision of the quest log.
+    
+    Then I start coding the Quest Log, by first creating the widget and viewport, then creating the types of quest, and the interactions with the environment to start or end a quest.
 ## Reflection
 How do a social movement gets killed/silenced/assimilated by institutions ?
 
