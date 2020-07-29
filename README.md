@@ -169,7 +169,7 @@ Then I finally start working on Unreal Engine and get to know the software and t
 Once i got a grasp of this, I started to code the differents systems i will need: An inventory, a Quest Log, and Dialogue system.
 For the inventory, I need to be able to toggle it, stack items, consult the informations of each items and their quantity, close it. I also start to build a query system for the items in prevision of the quest log.
     
-    Then I start coding the Quest Log, by first creating the widget and viewport, then creating the types of quest, and the interactions with the environment to start or end a quest.
+Then I start coding the Quest Log, by first creating the widget and viewport, then creating the types of quest, and the interactions with the environment to start or end a quest.
 ## Reflection
 How do a social movement gets killed/silenced/assimilated by institutions ?
 
