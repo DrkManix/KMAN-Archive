@@ -159,19 +159,25 @@ For this i decide to develop a video game where the main mechanic is to collect 
     
 #### Methods
 I first wrote a script of a dialogue which would be the main story telling element.
+
 |       ![](https://raw.githubusercontent.com/DrkManix/KMAN-Archive/img/Script01.jpg)       | ![](https://raw.githubusercontent.com/DrkManix/KMAN-Archive/img/Script02.jpg)|
 | :--------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------: |
 | ![](https://raw.githubusercontent.com/DrkManix/KMAN-Archive/img/Script03.jpg) |  ![]()  |
+
 Then started some sort of Audio/Video/Interaction script to details the possible interactions, environments and items per sequence of the story.
+
 |       ![](https://raw.githubusercontent.com/DrkManix/KMAN-Archive/img/AVScript.jpg)       |  
 From this I started to write the Interactions flowcharts, to help me later in the coding process. I try to detail every interaction and process in a logic syntax.
     |       ![](https://raw.githubusercontent.com/DrkManix/KMAN-Archive/img/Flowchart.jpg)       | ![](https://raw.githubusercontent.com/DrkManix/KMAN-Archive/img/Flowchart2.jpg)|
 | :--------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------: |
 | ![]() |  ![]()  |
+
 Then I finally start working on Unreal Engine and get to know the software and the bases of level design in it.
+
 |       ![](https://raw.githubusercontent.com/DrkManix/KMAN-Archive/img/Annotation 2020-07-20 110953.jpg)       | ![](https://raw.githubusercontent.com/DrkManix/KMAN-Archive/img/Annotation 2020-07-20 111031.jpg)|
 | :--------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------: |
 | ![](https://raw.githubusercontent.com/DrkManix/KMAN-Archive/img/Annotation 2020-07-20 111248.jpg) |  ![](https://raw.githubusercontent.com/DrkManix/KMAN-Archive/img/Annotation 2020-07-26 162926.jpg)  |
+
 Once i got a grasp of this, I started to code the differents systems i will need: An inventory, a Quest Log, and Dialogue system.
 For the inventory, I need to be able to toggle it, stack items, consult the informations of each items and their quantity, close it. I also start to build a query system for the items in prevision of the quest log.
     
