@@ -188,13 +188,13 @@ For the inventory, I need to be able to toggle it, stack items, consult the info
 
 |       ![](https://raw.githubusercontent.com/DrkManix/KMAN-Archive/master/img/Annotation2020-07-29104411.jpg)       | ![](https://raw.githubusercontent.com/DrkManix/KMAN-Archive/master/img/Annotation2020-07-29104229.jpg)|
 | :--------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------: |
-| ![](https://raw.githubusercontent.com/DrkManix/KMAN-Archive/master/img/Annotation2020-07-29104248.jpg) |  ![](https://raw.githubusercontent.com/DrkManix/KMAN-Archive/master/img/Annotation2020-07-29104325.jpg)  |
+| ![](https://raw.githubusercontent.com/DrkManix/KMAN-Archive/master/img/Annotation2020-07-29104452.jpg) |  ![](https://raw.githubusercontent.com/DrkManix/KMAN-Archive/master/img/Annotation2020-07-29104509.jpg)  |
     
 Then I start coding the Quest Log, by first creating the widget and viewport, then creating the types of quest, and the interactions with the environment to start or end a quest.
 
 |       ![](https://raw.githubusercontent.com/DrkManix/KMAN-Archive/master/img/Annotation2020-07-29104128.jpg)       | ![](https://raw.githubusercontent.com/DrkManix/KMAN-Archive/master/img/Annotation2020-07-27162215.jpg)|
 | :--------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------: |
-| ![](https://raw.githubusercontent.com/DrkManix/KMAN-Archive/master/img/Annotation2020-07-29104429.jpg) |  ![](https://raw.githubusercontent.com/DrkManix/KMAN-Archive/master/img/Annotation2020-07-29104452.jpg)  |
+|  |    |
 
 ## Reflection
 How do a social movement gets killed/silenced/assimilated by institutions ?
