@@ -182,15 +182,20 @@ Once i got a grasp of this, I started to code the differents systems i will need
 
 |       ![](https://raw.githubusercontent.com/DrkManix/KMAN-Archive/master/img/Annotation2020-07-26210127.jpg)       | ![](https://raw.githubusercontent.com/DrkManix/KMAN-Archive/master/img/Annotation2020-07-27162036.jpg)|
 | :--------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------: |
-| ![](https://raw.githubusercontent.com/DrkManix/KMAN-Archive/master/img/Annotation2020-07-27162147.jpg) |  ![](https://raw.githubusercontent.com/DrkManix/KMAN-Archive/master/img/Annotation2020-07-27162215.jpg)  |
+| ![](https://raw.githubusercontent.com/DrkManix/KMAN-Archive/master/img/Annotation2020-07-27162147.jpg) |  ![](https://raw.githubusercontent.com/DrkManix/KMAN-Archive/master/img/Annotation2020-07-29104350.jpg)  |
 
 For the inventory, I need to be able to toggle it, stack items, consult the informations of each items and their quantity, close it. I also start to build a query system for the items in prevision of the quest log.
 
-|       ![](https://raw.githubusercontent.com/DrkManix/KMAN-Archive/master/img/Annotation2020-07-29104128.jpg)       | ![](https://raw.githubusercontent.com/DrkManix/KMAN-Archive/master/img/Annotation2020-07-29104229.jpg)|
+|       ![](https://raw.githubusercontent.com/DrkManix/KMAN-Archive/master/img/Annotation2020-07-29104411.jpg)       | ![](https://raw.githubusercontent.com/DrkManix/KMAN-Archive/master/img/Annotation2020-07-29104229.jpg)|
 | :--------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------: |
 | ![](https://raw.githubusercontent.com/DrkManix/KMAN-Archive/master/img/Annotation2020-07-29104248.jpg) |  ![](https://raw.githubusercontent.com/DrkManix/KMAN-Archive/master/img/Annotation2020-07-29104325.jpg)  |
     
 Then I start coding the Quest Log, by first creating the widget and viewport, then creating the types of quest, and the interactions with the environment to start or end a quest.
+
+|       ![](https://raw.githubusercontent.com/DrkManix/KMAN-Archive/master/img/Annotation2020-07-29104128.jpg)       | ![](https://raw.githubusercontent.com/DrkManix/KMAN-Archive/master/img/Annotation2020-07-27162215.jpg)|
+| :--------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------: |
+| ![](https://raw.githubusercontent.com/DrkManix/KMAN-Archive/master/img/Annotation2020-07-29104429.jpg) |  ![](https://raw.githubusercontent.com/DrkManix/KMAN-Archive/master/img/Annotation2020-07-29104452.jpg)  |
+
 ## Reflection
 How do a social movement gets killed/silenced/assimilated by institutions ?
 
