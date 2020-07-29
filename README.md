@@ -154,20 +154,20 @@ From there I edit those content into the narrative to give context to them and d
 | **Medium** | Unreal Engine
 | **Result** | Video Game
 #### Description
-    I want to re appropriate the story of the KMAN to convey a more "general" themathic statement, around a storytelling element.
-    For this i decide to develop a video game where the main mechanic is to collect items. The environment will be a bit surrealistic but taking elements of real life.
+I want to re appropriate the story of the KMAN to convey a more "general" themathic statement, around a storytelling element.
+For this i decide to develop a video game where the main mechanic is to collect items. The environment will be a bit surrealistic but taking elements of real life.
     
 #### Methods
-    I first wrote a script of a dialogue which would be the main story telling element.
+I first wrote a script of a dialogue which would be the main story telling element.
     
-    Then started some sort of Audio/Video/Interaction script to details the possible interactions, environments and items per sequence of the story.
+Then started some sort of Audio/Video/Interaction script to details the possible interactions, environments and items per sequence of the story.
     
-    From this I started to write the Interactions flowcharts, to help me later in the coding process. I try to detail every interaction and process in a logic syntax.
+From this I started to write the Interactions flowcharts, to help me later in the coding process. I try to detail every interaction and process in a logic syntax.
     
-    Then I finally start working on Unreal Engine and get to know the software and the bases of level design in it.
+Then I finally start working on Unreal Engine and get to know the software and the bases of level design in it.
     
-    Once i got a grasp of this, I started to code the differents systems i will need: An inventory, a Quest Log, and Dialogue system.
-    For the inventory, I need to be able to toggle it, stack items, consult the informations of each items and their quantity, close it. I also start to build a query system for the items in prevision of the quest log.
+Once i got a grasp of this, I started to code the differents systems i will need: An inventory, a Quest Log, and Dialogue system.
+For the inventory, I need to be able to toggle it, stack items, consult the informations of each items and their quantity, close it. I also start to build a query system for the items in prevision of the quest log.
     
     Then I start coding the Quest Log, by first creating the widget and viewport, then creating the types of quest, and the interactions with the environment to start or end a quest.
 ## Reflection
