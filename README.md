@@ -210,7 +210,7 @@ Then I imported an archive video and integrated it in the landscape, then creati
 
 After this i tried to link the quest system to the dialogue system, to have a mor immersive gameplay. Sadly after hours of debugging using breakpoints, I couldnt figure what was missing but i got really close.
 
-|       ![](https://raw.githubusercontent.com/DrkManix/KMAN-Archive/master/img/gettingcloser1.jpg)       | ![](https://raw.githubusercontent.com/DrkManix/KMAN-Archive/master/img/gettingcloser2.jpg)|
+|       ![](https://raw.githubusercontent.com/DrkManix/KMAN-Archive/master/img/gettingcloser.jpg)       | ![](https://raw.githubusercontent.com/DrkManix/KMAN-Archive/master/img/gettingcloser2.jpg)|
 | :--------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------: |
 | ![](https://raw.githubusercontent.com/DrkManix/KMAN-Archive/master/img/gettingcloser3.jpg)  |  ![](https://raw.githubusercontent.com/DrkManix/KMAN-Archive/master/img/gettingcloser4.jpg)  |
 
@@ -218,7 +218,7 @@ I finally start to implent the design in the UIs, changing the font, reframing i
 
 |       ![](https://raw.githubusercontent.com/DrkManix/KMAN-Archive/master/img/endresult2.jpg)       | ![](https://raw.githubusercontent.com/DrkManix/KMAN-Archive/master/img/endresult3.jpg)|
 | :--------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------: |
-| ![](https://raw.githubusercontent.com/DrkManix/KMAN-Archive/master/img/endresult4.jpg)  |  ![](https://raw.githubusercontent.com/DrkManix/KMAN-Archive/master/img/endresult5.jpg)  |
+| ![](https://raw.githubusercontent.com/DrkManix/KMAN-Archive/master/img/endresult1.jpg)  |  ![](https://raw.githubusercontent.com/DrkManix/KMAN-Archive/master/img/endresult5.jpg)  |
 
 ## Reflection
 How do a social movement gets killed/silenced/assimilated by institutions ?
