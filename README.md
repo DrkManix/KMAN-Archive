@@ -166,9 +166,9 @@ I first wrote a script of a dialogue which would be the main story telling eleme
 
 Then started some sort of Audio/Video/Interaction script to details the possible interactions, environments and items per sequence of the story.
 
-|       ![](https://raw.githubusercontent.com/DrkManix/KMAN-Archive/master/img/AVScript.jpg)       |  
+|       ![](https://raw.githubusercontent.com/DrkManix/KMAN-Archive/master/img/Flowchart.jpg)       |  
 From this I started to write the Interactions flowcharts, to help me later in the coding process. I try to detail every interaction and process in a logic syntax.
-    |       ![](https://raw.githubusercontent.com/DrkManix/KMAN-Archive/master/img/Flowchart.jpg)       | ![](https://raw.githubusercontent.com/DrkManix/KMAN-Archive/master/img/Flowchart2.jpg)|
+    |       ![](https://raw.githubusercontent.com/DrkManix/KMAN-Archive/master/img/AVScript.jpg)       | ![](https://raw.githubusercontent.com/DrkManix/KMAN-Archive/master/img/Flowchart2.jpg)|
 | :--------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------: |
 | ![]() |  ![]()  |
 
