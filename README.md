@@ -1,5 +1,5 @@
 [<img src="https://raw.githubusercontent.com/DrkManix/KMAN-Archive/master/process/cover-2.jpg">](#)
-# How does a social movement die? The exemple of KMAN
+# Ripple Effect
 
 ### Table of Contents
 1. [Artefact](#artefact)
