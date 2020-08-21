@@ -196,6 +196,18 @@ Then I start coding the Quest Log, by first creating the widget and viewport, th
 | :--------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------: |
 |  |    |
 
+For the next step i went on developing the level design a bit more, trying to really bring the fantastical/metaphorical aspect of this landscape. I also change the mannequin to a new mesh, I wanted a casual character, easily identifiable.
+
+|       ![](https://raw.githubusercontent.com/DrkManix/KMAN-Archive/master/img/AR_Process_1.jpg)       | ![](https://raw.githubusercontent.com/DrkManix/KMAN-Archive/master/img/AR_Process_3.jpg)|
+| :--------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------: |
+| ![](https://raw.githubusercontent.com/DrkManix/KMAN-Archive/master/img/AR_Process_4.jpg)  |  ![](https://raw.githubusercontent.com/DrkManix/KMAN-Archive/master/img/AR_Process_5.jpg)   |
+
+Then I imported an archive video and integrated it in the landscape, then creating an environment for the audio and set the volume attenuation.
+
+|       ![](https://raw.githubusercontent.com/DrkManix/KMAN-Archive/master/img/AR_Process_2.jpg)       | ![](https://raw.githubusercontent.com/DrkManix/KMAN-Archive/master/img/AR_Process_6.jpg)|
+| :--------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------: |
+| ![](https://raw.githubusercontent.com/DrkManix/KMAN-Archive/master/img/AR_Process_7.jpg)  |  ![](https://raw.githubusercontent.com/DrkManix/KMAN-Archive/master/img/AR_Process_8.jpg)  |
+
 ## Reflection
 How do a social movement gets killed/silenced/assimilated by institutions ?
 
