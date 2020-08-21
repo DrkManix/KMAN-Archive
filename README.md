@@ -230,12 +230,12 @@ As KMAN grew, and partly due to its open structure in which everybody was encour
 Another thing is that the organization becomes established with the mainstream. That is, their goals or ideologies are adopted by the mainstream and there is no longer any need for a movement. Collective bargaining rights are guaranteed by the  government (in most cases) and the movement is now well established within the political system.
 
 ## Outcomes
-The outcome is a webpage where the visual materials relate to the audio track, edited in a order and a way to construct a narrative from these pieces.
+The outcome is a gameplay overview trailer, with the developper comments.
 
-![Website Screenshot](https://raw.githubusercontent.com/DrkManix/KMAN-Archive/master/img/webscreenshot.gif)
+![Game Screenshot](https://raw.githubusercontent.com/DrkManix/KMAN-Archive/master/img/Add-RippleEffect-DVD.jpg)
 
 ### Outcome Link   
-[website link](https://www.darkmanix.com/KMAN-Archive/) 
+[video trailer link](https://youtu.be/1C50XB9U3I8) 
 
 ## Bibliography
 
