@@ -235,7 +235,7 @@ The outcome is a gameplay overview trailer, with the developper comments.
 ![Game Screenshot](https://raw.githubusercontent.com/DrkManix/KMAN-Archive/master/img/Add-RippleEffect-DVD.jpg)
 
 ### Outcome Link   
-[video trailer link](https://youtu.be/1C50XB9U3I8) 
+[video trailer link](https://youtu.be/-oCJixgUsjU) 
 
 ## Bibliography
 
